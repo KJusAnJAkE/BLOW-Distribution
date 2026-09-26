@@ -1,13 +1,13 @@
 {
-    "gameVersion":  "0.0.1",
+    "gameVersion":  "0.1.1",
     "executable":  "B-LOW.exe",
-    "archiveFileName":  "B-LOW-0.0.1.zip",
+    "archiveFileName":  "B-LOW-0.1.1.zip",
     "archiveSha256":  "cc4a933dd147307139bc336862bda34077e4bc4fe862b527bef480abcde4fe70",
     "patchNotes":  ".Just added, a little race sim, to test diffrent flight models",
     "parts":  [
                   {
-                      "fileName":  "B-LOW-0.0.1.part001",
-                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.0.1/B-LOW-0.0.1.part001",
+                      "fileName":  "B-LOW-0.1.1.part001",
+                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.1.1/B-LOW-0.1.1.part001",
                       "sha256":  "cc4a933dd147307139bc336862bda34077e4bc4fe862b527bef480abcde4fe70",
                       "size":  41999825
                   }
