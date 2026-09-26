@@ -1,15 +1,15 @@
 {
-    "gameVersion":  "0.1.1",
+    "gameVersion":  "0.1.2",
     "executable":  "B-LOW.exe",
-    "archiveFileName":  "B-LOW-0.1.1.zip",
-    "archiveSha256":  "c1d5a30e79f98a67ece549c19ec00f3673109782f2dee19870b79dda9e92177f",
-    "patchNotes":  ".Just added a race sim to test the new flight model",
+    "archiveFileName":  "B-LOW-0.1.2.zip",
+    "archiveSha256":  "cf0cf6c33b9545a654edb9237968a02c0a492f625ff03beb64f9a3cf3124ec3a",
+    "patchNotes":  ".Added 3 more Maps",
     "parts":  [
                   {
-                      "fileName":  "B-LOW-0.1.1.part001",
-                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.1.1/B-LOW-0.1.1.part001",
-                      "sha256":  "c1d5a30e79f98a67ece549c19ec00f3673109782f2dee19870b79dda9e92177f",
-                      "size":  41999825
+                      "fileName":  "B-LOW-0.1.2.part001",
+                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.1.2/B-LOW-0.1.2.part001",
+                      "sha256":  "cf0cf6c33b9545a654edb9237968a02c0a492f625ff03beb64f9a3cf3124ec3a",
+                      "size":  44692815
                   }
               ]
 }
