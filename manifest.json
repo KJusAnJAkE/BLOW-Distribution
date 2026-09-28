@@ -1,15 +1,15 @@
 {
-    "gameVersion":  "0.1.6",
+    "gameVersion":  "0.1.7",
     "executable":  "B-LOW.exe",
-    "archiveFileName":  "B-LOW-0.1.6.zip",
-    "archiveSha256":  "a1da85a869498204da19b91d9665b69a097338048a6177415e42f0ac3cc34c38",
-    "patchNotes":  ".Full Beta Finished",
+    "archiveFileName":  "B-LOW-0.1.7.zip",
+    "archiveSha256":  "99679f20363eb68aa4b076ebf51d47c19277cbb3f0ca18c7e02b55e640f26baa",
+    "patchNotes":  ".Finished Full Race Sim",
     "parts":  [
                   {
-                      "fileName":  "B-LOW-0.1.6.part001",
-                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.1.6/B-LOW-0.1.6.part001",
-                      "sha256":  "a1da85a869498204da19b91d9665b69a097338048a6177415e42f0ac3cc34c38",
-                      "size":  201573007
+                      "fileName":  "B-LOW-0.1.7.part001",
+                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.1.7/B-LOW-0.1.7.part001",
+                      "sha256":  "99679f20363eb68aa4b076ebf51d47c19277cbb3f0ca18c7e02b55e640f26baa",
+                      "size":  201573003
                   }
               ]
 }
