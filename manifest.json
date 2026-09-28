@@ -1,15 +1,15 @@
 {
-    "gameVersion":  "1.1.4",
+    "gameVersion":  "0.1.6",
     "executable":  "B-LOW.exe",
-    "archiveFileName":  "B-LOW-1.1.4.zip",
-    "archiveSha256":  "e9a90843d091af9f624bf8233bfc3c4a02089e5c44d08c3c2db9f4a20f6a738f",
-    "patchNotes":  "FUCK FIXED BUG",
+    "archiveFileName":  "B-LOW-0.1.6.zip",
+    "archiveSha256":  "a1da85a869498204da19b91d9665b69a097338048a6177415e42f0ac3cc34c38",
+    "patchNotes":  ".Full Beta Finished",
     "parts":  [
                   {
-                      "fileName":  "B-LOW-1.1.4.part001",
-                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v1.1.4/B-LOW-1.1.4.part001",
-                      "sha256":  "e9a90843d091af9f624bf8233bfc3c4a02089e5c44d08c3c2db9f4a20f6a738f",
-                      "size":  84715311
+                      "fileName":  "B-LOW-0.1.6.part001",
+                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.1.6/B-LOW-0.1.6.part001",
+                      "sha256":  "a1da85a869498204da19b91d9665b69a097338048a6177415e42f0ac3cc34c38",
+                      "size":  201573007
                   }
               ]
 }
