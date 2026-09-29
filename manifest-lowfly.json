@@ -1,14 +1,14 @@
-﻿{
-    "gameVersion":  "0.0.1",
+{
+    "gameVersion":  "0.0.2",
     "executable":  "B-LOW-OW.exe",
-    "archiveFileName":  "B-LOW-OW-0.0.1.zip",
-    "archiveSha256":  "15f56fa1ed34d4e767390e3a1fb64791ddbb465054c0b1a31e0d109da6a66dd8",
-    "patchNotes":  ".Connected To Launtcher, Awaiting Development",
+    "archiveFileName":  "B-LOW-OW-0.0.2.zip",
+    "archiveSha256":  "3dfc50f6e700e01d369252200bdaadb4748d8283f50b76e0a2d67f04b3ae8cd5",
+    "patchNotes":  ".Uploaded Build Test",
     "parts":  [
                   {
-                      "fileName":  "B-LOW-OW-0.0.1.part001",
-                      "url":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/ow-v0.0.1/B-LOW-OW-0.0.1.part001",
-                      "sha256":  "15f56fa1ed34d4e767390e3a1fb64791ddbb465054c0b1a31e0d109da6a66dd8",
+                      "fileName":  "B-LOW-OW-0.0.2.part001",
+                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/ow-v0.0.2/B-LOW-OW-0.0.2.part001",
+                      "sha256":  "3dfc50f6e700e01d369252200bdaadb4748d8283f50b76e0a2d67f04b3ae8cd5",
                       "size":  56639005
                   }
               ]
