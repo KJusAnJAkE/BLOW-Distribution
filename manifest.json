@@ -5,12 +5,14 @@
     "archiveSha256":  "b71b4acb762a94780dd4327837e9a3ae6c6c284b5da9a23e8ea77383e230ff4a",
     "archiveSize":  201672892,
     "patchNotes":  ".Uploaded To Launtcher",
-    "parts":  {
-                  "fileName":  "B-LOW-0.2.1.part001",
-                  "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.1/B-LOW-0.2.1.part001",
-                  "sha256":  "b71b4acb762a94780dd4327837e9a3ae6c6c284b5da9a23e8ea77383e230ff4a",
-                  "size":  201672892
-              },
+   "parts":  [
+    {
+        "fileName":  "B-LOW-0.2.1.part001",
+        "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.1/B-LOW-0.2.1.part001",
+        "sha256":  "b71b4acb762a94780dd4327837e9a3ae6c6c284b5da9a23e8ea77383e230ff4a",
+        "size":  201672892
+    }
+],
     "files":  [
                   {
                       "path":  "B-LOW.exe",
