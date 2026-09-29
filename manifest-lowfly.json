@@ -1,7 +1,7 @@
 {
-    "gameVersion":  "0.0.2",
+    "gameVersion":  "0.0.3",
     "executable":  "B-LOW-OW.exe",
-    "archiveFileName":  "B-LOW-OW-0.0.2.zip",
+    "archiveFileName":  "B-LOW-OW1-0.0.2.zip",
     "archiveSha256":  "3dfc50f6e700e01d369252200bdaadb4748d8283f50b76e0a2d67f04b3ae8cd5",
     "patchNotes":  ".Uploaded Build Test",
     "parts":  [
