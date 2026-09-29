@@ -1115,52 +1115,52 @@
                       "size":  25817
                   }
               ],
-    "patches":  [
-                    {
-                        "fromVersion":  "0.1.9",
-                        "toVersion":  "0.2.0",
-                        "archiveFileName":  "B-LOW-Patch-0.1.9-to-0.2.0.zip",
-                        "archiveSha256":  "9de3a40169f694256ef5db0d4c87cc7cc8d33eb71613f984a28b681814ced8da",
-                        "archiveSize":  132,
-                        "parts":  {
-                                      "fileName":  "B-LOW-Patch-0.1.9-to-0.2.0.part001",
-                                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.0/B-LOW-Patch-0.1.9-to-0.2.0.part001",
-                                      "sha256":  "9de3a40169f694256ef5db0d4c87cc7cc8d33eb71613f984a28b681814ced8da",
-                                      "size":  132
-                                  },
-                        "files":  [
-                                      {
-                                          "path":  "version.txt",
-                                          "sha256":  "59c0f26f5a730eadfc114ed2baa6ba6808a16ceb8a83fca3bb9b2626c7761b33",
-                                          "size":  10
-                                      }
-                                  ],
-                        "deletedFiles":  [
-
-                                         ]
-                    },
-                    {
-                        "fromVersion":  "0.2.0",
-                        "toVersion":  "0.2.1",
-                        "archiveFileName":  "B-LOW-Patch-0.2.0-to-0.2.1.zip",
-                        "archiveSha256":  "657a85ee9ba809161d47784417f9abe47c7fbd04fbad4293afaf61376da25694",
-                        "archiveSize":  132,
-                        "parts":  {
-                                      "fileName":  "B-LOW-Patch-0.2.0-to-0.2.1.part001",
-                                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.1/B-LOW-Patch-0.2.0-to-0.2.1.part001",
-                                      "sha256":  "657a85ee9ba809161d47784417f9abe47c7fbd04fbad4293afaf61376da25694",
-                                      "size":  132
-                                  },
-                        "files":  [
-                                      {
-                                          "path":  "version.txt",
-                                          "sha256":  "b8cdc6131a7d2b710d4b9c87ab6e373b5beb28358400c32288b3170c867e1e64",
-                                          "size":  10
-                                      }
-                                  ],
-                        "deletedFiles":  [
-
-                                         ]
-                    }
-                ]
+ "patches": [
+    {
+        "fromVersion": "0.1.9",
+        "toVersion": "0.2.0",
+        "archiveFileName": "B-LOW-Patch-0.1.9-to-0.2.0.zip",
+        "archiveSha256": "9de3a40169f694256ef5db0d4c87cc7cc8d33eb71613f984a28b681814ced8da",
+        "archiveSize": 132,
+        "parts": [
+            {
+                "fileName": "B-LOW-Patch-0.1.9-to-0.2.0.part001",
+                "downloadUrl": "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.0/B-LOW-Patch-0.1.9-to-0.2.0.part001",
+                "sha256": "9de3a40169f694256ef5db0d4c87cc7cc8d33eb71613f984a28b681814ced8da",
+                "size": 132
+            }
+        ],
+        "files": [
+            {
+                "path": "version.txt",
+                "sha256": "59c0f26f5a730eadfc114ed2baa6ba6808a16ceb8a83fca3bb9b2626c7761b33",
+                "size": 10
+            }
+        ],
+        "deletedFiles": []
+    },
+    {
+        "fromVersion": "0.2.0",
+        "toVersion": "0.2.1",
+        "archiveFileName": "B-LOW-Patch-0.2.0-to-0.2.1.zip",
+        "archiveSha256": "657a85ee9ba809161d47784417f9abe47c7fbd04fbad4293afaf61376da25694",
+        "archiveSize": 132,
+        "parts": [
+            {
+                "fileName": "B-LOW-Patch-0.2.0-to-0.2.1.part001",
+                "downloadUrl": "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.1/B-LOW-Patch-0.2.0-to-0.2.1.part001",
+                "sha256": "657a85ee9ba809161d47784417f9abe47c7fbd04fbad4293afaf61376da25694",
+                "size": 132
+            }
+        ],
+        "files": [
+            {
+                "path": "version.txt",
+                "sha256": "b8cdc6131a7d2b710d4b9c87ab6e373b5beb28358400c32288b3170c867e1e64",
+                "size": 10
+            }
+        ],
+        "deletedFiles": []
+    }
+]
 }
