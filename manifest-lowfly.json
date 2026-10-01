@@ -1,16 +1,16 @@
 {
-    "gameVersion":  "0.0.6",
+    "gameVersion":  "0.0.9",
     "executable":  "B-LOW-OW.exe",
-    "archiveFileName":  "B-LOW-OW-0.0.6.zip",
-    "archiveSha256":  "1b0e97f8c0a309accd6cf8515a03ec683e0f1fa18cc9cd4c39d87ac9ecad3138",
-    "archiveSize":  424143278,
-    "patchNotes":  "Published First Release, Trial Edditon Low flying now public",
+    "archiveFileName":  "B-LOW-OW-0.0.9.zip",
+    "archiveSha256":  "299cf9b2fd68c253f8ad90f9ba8dd3a8cca9e210473f989faeeab4bfaf87cea0",
+    "archiveSize":  56732543,
+    "patchNotes":  "Testing Multiplayer",
     "parts":  [
                   {
-                      "fileName":  "B-LOW-OW-0.0.6.part001",
-                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/ow-v0.0.6/B-LOW-OW-0.0.6.part001",
-                      "sha256":  "1b0e97f8c0a309accd6cf8515a03ec683e0f1fa18cc9cd4c39d87ac9ecad3138",
-                      "size":  424143278
+                      "fileName":  "B-LOW-OW-0.0.9.part001",
+                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/ow-v0.0.9/B-LOW-OW-0.0.9.part001",
+                      "sha256":  "299cf9b2fd68c253f8ad90f9ba8dd3a8cca9e210473f989faeeab4bfaf87cea0",
+                      "size":  56732543
                   }
               ],
     "files":  [
@@ -41,33 +41,33 @@
                   },
                   {
                       "path":  "version.txt",
-                      "sha256":  "394cadf8ab407b115979e2dc465b0779e2a969048e7141c332e57463626b1690",
+                      "sha256":  "fbd67aac4b5cb6f5facc2a255c8d6e652257abcd39a8a4b5e778041b73508dcd",
                       "size":  10
                   },
                   {
-                      "path":  "B-LOW-OW_BackUpThisFolder_ButDontShipItWithYourGame/x86_64/lib_burst_generated.txt",
-                      "sha256":  "89320fb2f702115725f457a4e699bfd7d60281184a6b1de6599fa70149c6ecec",
-                      "size":  197132
+                      "path":  "B-LOW-OW--_BackUpThisFolder_ButDontShipItWithYourGame/x86_64/lib_burst_generated.txt",
+                      "sha256":  "3472b335d3d2602cb7f09cf64a4e2c6c42ef663e7cdb9f058d6f528233a58b5c",
+                      "size":  195618
                   },
                   {
                       "path":  "B-LOW-OW_Data/app.info",
-                      "sha256":  "11dac67895f0c3a20999fd672bbb9d193185ccf917ef5a9d0ff69257dd296f19",
-                      "size":  23
+                      "sha256":  "ff3ecac8f090f9d277a04b8e6767c417bac9b3a21842ec8d12821749e061f2fb",
+                      "size":  25
                   },
                   {
                       "path":  "B-LOW-OW_Data/boot.config",
-                      "sha256":  "17a9ffaa530ba74e74b6ff0334df5b4beb9c2bd7c836e952851960473e58d4b5",
+                      "sha256":  "92bf20d685f7197b382c3820aa6c9d4c0ae4854f642ff35385ac6eed365d3bf6",
                       "size":  156
                   },
                   {
                       "path":  "B-LOW-OW_Data/globalgamemanagers",
-                      "sha256":  "27d54091546f507fa8abf21b84dcb7a5099017f87d976a23276c3805229bca4c",
-                      "size":  154980
+                      "sha256":  "f5c9d7adab9abd4c14dddeb0e7df63974858f7ecab8affc0cf39f1f550f83692",
+                      "size":  224020
                   },
                   {
                       "path":  "B-LOW-OW_Data/globalgamemanagers.assets",
-                      "sha256":  "2f7ce059509dce2b264ad0c0f6e1c1fdfbcb3cae991ec8220c18170ac6197541",
-                      "size":  49744420
+                      "sha256":  "ba3470c5f0ee781048dcc59d4b60e6db0b853178dc2100febbbcba5bdeed94e3",
+                      "size":  45390612
                   },
                   {
                       "path":  "B-LOW-OW_Data/globalgamemanagers.assets.resS",
@@ -76,53 +76,83 @@
                   },
                   {
                       "path":  "B-LOW-OW_Data/level0",
-                      "sha256":  "7687afe9eb2978d7bd6feba1e98b8c2b733d82ca2c01fa1a0bb6e4a5fe57ac83",
-                      "size":  2148612
+                      "sha256":  "fe512b3895ba6b9d1f5569e56638844c2a3ff5dd20ef5c3860ac2e774feb3741",
+                      "size":  53988
+                  },
+                  {
+                      "path":  "B-LOW-OW_Data/level1",
+                      "sha256":  "8ad2c753db53233de8d869e3a069422524c761e45135500026b73339a2397d09",
+                      "size":  5260
                   },
                   {
                       "path":  "B-LOW-OW_Data/resources.assets",
-                      "sha256":  "bf4a5a1550038b2db84a72a4d6bd3ec246d0ae6894c09fba3017d2c81d8ad4b9",
-                      "size":  1472344
+                      "sha256":  "a24dd84710e067ea6c25a067dbe0ccd97e52bc16ed477f36d5750a5c8fa72265",
+                      "size":  810600
                   },
                   {
                       "path":  "B-LOW-OW_Data/resources.assets.resS",
-                      "sha256":  "863812aefc8f57c27b9808eed9f0b7a393d292aea306cebf8aeec4cd3ee80ce2",
-                      "size":  3303344
+                      "sha256":  "8df0db11130d9468589fd343974420462e4b6c24b177d491db598813e9d25ee3",
+                      "size":  60176
                   },
                   {
                       "path":  "B-LOW-OW_Data/RuntimeInitializeOnLoads.json",
-                      "sha256":  "ad46b380cbdba51f20dfd812693cc1adb8f56dfeaebea8a6a094e6f25438f491",
-                      "size":  6758
+                      "sha256":  "96dde9fc66507db0dd5f8ff001dcdbc14275a0193835cd3bdf95ab3520e96f9c",
+                      "size":  8067
                   },
                   {
                       "path":  "B-LOW-OW_Data/ScriptingAssemblies.json",
-                      "sha256":  "289375b4d89215d0bc884f88b98e14a021e49b1b857035194fd1f1364ebbb9f1",
-                      "size":  5147
+                      "sha256":  "55e72ab98be76ce66edbc9c223472a729cfe28d40f1770281b6410e66b753037",
+                      "size":  5024
                   },
                   {
                       "path":  "B-LOW-OW_Data/sharedassets0.assets",
-                      "sha256":  "2f1ed2c7253ddc182c2919238e650bbfe036082ac12697e1fef1ceca745f64e2",
-                      "size":  115046864
+                      "sha256":  "ef300a03af1d100ccd06e22376819f92f6e315a86715d50ee67c4a17f2744745",
+                      "size":  772988
                   },
                   {
                       "path":  "B-LOW-OW_Data/sharedassets0.assets.resS",
-                      "sha256":  "0e7e01fd156a9c5f6eddc62bff96f9ef1a9e8ff5eed3cd8b22c34e32859b60ce",
-                      "size":  549763936
+                      "sha256":  "f7f0d4554672405c72cdb73950ed1e4b830f00acd052d8b5ae0dd6706eaf48bd",
+                      "size":  1572864
+                  },
+                  {
+                      "path":  "B-LOW-OW_Data/sharedassets1.assets",
+                      "sha256":  "326f40b7a4e23f24fc60c838cdc62e321d34f1ce193df6a9e49bc4ceb92ae5bb",
+                      "size":  11872
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Assembly-CSharp.dll",
-                      "sha256":  "e10cf0c5f1d76a852a14c6878660af18e5ec80fdf720ad150173a5cf67069976",
-                      "size":  133120
+                      "sha256":  "da51c348474d4eb44d2910bc170f04e4ad50fa56eabc4edbb38c83fc5737b2f0",
+                      "size":  28160
                   },
                   {
-                      "path":  "B-LOW-OW_Data/Managed/Autodesk.Fbx.BuildTestAssets.dll",
-                      "sha256":  "e8c29c73f2be5f0fabf89a646eeba1dfb18a4408b9a0c5c28b57785c3cb906a1",
-                      "size":  3584
+                      "path":  "B-LOW-OW_Data/Managed/Fusion.Common.dll",
+                      "sha256":  "3a3549688200f6b72177cd3cc9484af61498b0a4019e39babc098410e1659053",
+                      "size":  172032
                   },
                   {
-                      "path":  "B-LOW-OW_Data/Managed/Autodesk.Fbx.dll",
-                      "sha256":  "662e596551f291f930dec2c99fcce2b8e7147c43acd7f9c9fd86fe3975c0af85",
-                      "size":  3072
+                      "path":  "B-LOW-OW_Data/Managed/Fusion.Log.dll",
+                      "sha256":  "2e5d2bf813908d311bbf6159983d020511aceb1e249203ed50eb1960e96095d0",
+                      "size":  39424
+                  },
+                  {
+                      "path":  "B-LOW-OW_Data/Managed/Fusion.Realtime.dll",
+                      "sha256":  "bbfb85556241f63d9a3052459c075ad2cc5a56098a16d571432bb13e5b36ad63",
+                      "size":  19968
+                  },
+                  {
+                      "path":  "B-LOW-OW_Data/Managed/Fusion.Runtime.dll",
+                      "sha256":  "d213b95e4694c167f5f6faffcbd75ca1e47f19a9249c91a4964f8342fac9b560",
+                      "size":  967680
+                  },
+                  {
+                      "path":  "B-LOW-OW_Data/Managed/Fusion.Sockets.dll",
+                      "sha256":  "ba2bba96e7b1bb93249634e1fcf13657f38d05589882ad968df8322a846d070b",
+                      "size":  181248
+                  },
+                  {
+                      "path":  "B-LOW-OW_Data/Managed/Fusion.Unity.dll",
+                      "sha256":  "12260655e24d4c50adc1786382111e0b02bdd11e81cff1bc469888dd1ec70f96",
+                      "size":  450560
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Mono.Security.dll",
@@ -135,9 +165,24 @@
                       "size":  4632064
                   },
                   {
+                      "path":  "B-LOW-OW_Data/Managed/NanoSockets.dll",
+                      "sha256":  "22b6b68d81c58d0d41e45d0011896ff62bfca0ff9c508f0d2872a215119e4091",
+                      "size":  8192
+                  },
+                  {
                       "path":  "B-LOW-OW_Data/Managed/netstandard.dll",
                       "sha256":  "6ae62e082dc494a2433984177f60ca4db5fae69b1f360a8b33754172b310b8c5",
                       "size":  90112
+                  },
+                  {
+                      "path":  "B-LOW-OW_Data/Managed/Photon.Realtime.dll",
+                      "sha256":  "d04cf2b0960e9afc1ba5f7d9a3883ecda57634e13dab762d279d375488869a9f",
+                      "size":  146432
+                  },
+                  {
+                      "path":  "B-LOW-OW_Data/Managed/PhotonClient.dll",
+                      "sha256":  "afa745d8d5f085e2259e172bf68964528c8a8478e5adfea92fa9c39635179426",
+                      "size":  218624
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/System.Buffers.dll",
@@ -256,17 +301,12 @@
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.Burst.dll",
-                      "sha256":  "e6093555785482b29ab25f4d56778663e1daeff462f1400346a0ae828687ff24",
+                      "sha256":  "6e16cdd7b94b590497c4d63cb686336ab77266d9079305dd99ce31f10adff164",
                       "size":  5120
                   },
                   {
-                      "path":  "B-LOW-OW_Data/Managed/Unity.Cinemachine.dll",
-                      "sha256":  "4df0f35901e51e21dadfd6ca10dabf3b930f92982acbfb05fa66ab7e299c5a12",
-                      "size":  456192
-                  },
-                  {
                       "path":  "B-LOW-OW_Data/Managed/Unity.Collections.dll",
-                      "sha256":  "3215c89444651c4f36eab2d8fa926879475bac7896ffbbfb4bf2cdecc3b3a5dc",
+                      "sha256":  "286cb5e865e852fe3609d505dbac63a36f56f246bc4b051484e8eafc61c85f14",
                       "size":  442368
                   },
                   {
@@ -276,127 +316,92 @@
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.Collections.Tests.CoreCLR.InternalJobNestedPrivate.dll",
-                      "sha256":  "39fdb2f28fd7392aa4769e64f518a6b57e03b81de03f29a28b3adaedf21780b1",
+                      "sha256":  "b3793fb358b3bee80373810c064d7bd68dcbab4f7141e7bee3e0642b4c5dedf9",
                       "size":  4608
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.Collections.Tests.CoreCLR.PrivateJobNested.dll",
-                      "sha256":  "357b6ed9bd6d30b33b762a0f7f628c64ae80d0768c442f3114fcb5f8cf104ad1",
+                      "sha256":  "40be7d76726a068df53138172e32f4c0870407aaa9b1054a221f1513137bb8b9",
                       "size":  4096
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.Collections.Tests.CoreCLR.ProtectedJobNested.dll",
-                      "sha256":  "33916b1f6dc27d04bfdadcc7c9809f9e398c4f6f65f5990803f80e204689b4cb",
+                      "sha256":  "bd79d03ef225f0dbb0d9dbce79f85120368ea69b160afe65cb0199c8fce8d6eb",
                       "size":  4096
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.Collections.Tests.CoreCLR.PublicJobPrivateGeneric.dll",
-                      "sha256":  "bf61a4575a449378671850775fcd5592ce5c9e929c172a252fde853fa91e9a4f",
+                      "sha256":  "b8566010fb4f364d892174f0ce8becbd4613003f928bbbc95a3fad897df6b58c",
                       "size":  4608
                   },
                   {
-                      "path":  "B-LOW-OW_Data/Managed/Unity.Formats.Fbx.Runtime.dll",
-                      "sha256":  "d20bf456af800febea6661f16c1459b708f3a162065c292ba5d15ef553733091",
-                      "size":  5632
-                  },
-                  {
                       "path":  "B-LOW-OW_Data/Managed/Unity.InputSystem.dll",
-                      "sha256":  "414a15536f3f78db4d1c3dcdab7083d820ced64beb1c6bbb2c335d7747744c5e",
+                      "sha256":  "be733384810b94d1f76b8fe59e4af8cc73fc49a19a6148605df033fe45a439e0",
                       "size":  1094656
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.InputSystem.ForUI.dll",
-                      "sha256":  "8945a9555f57e6f34d1f7fd8053cd8eff1d011b608ec61e29e07fd08f4aa5aed",
+                      "sha256":  "2a4e67e93adfebca3432881544f111e5bbd45ce1cfd3837271408cf17b5f9818",
                       "size":  15360
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.InternalAPIEngineBridge.004.dll",
-                      "sha256":  "1ef08ae94a3a30d4cd33295e88b631d3aee5e58300c20f074c8a2a2bc29b18af",
+                      "sha256":  "022145bfe1cff2b26a74b627d7ae3b191f7ba886be40f0f85ba601c779fa5ecf",
                       "size":  4096
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.InternalAPIEngineBridge.ObjectDispatcher.Runtime.dll",
-                      "sha256":  "31324924f39201f21abe6f5092d70110738284bea409f6088db69aefb7a46838",
+                      "sha256":  "7e96116e153b618f4df1425c014a0b9d60874f3c86c5943c321626af8cb58365",
                       "size":  5632
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.dll",
-                      "sha256":  "a0dbbdc2e7b42c085318ddbb9a7693bf063f1a4b23290ddebcc4e805d07490e6",
+                      "sha256":  "ee60f7389f75545cad5f29180865cf244942d5dbe2f26d22068653a09d747462",
                       "size":  3584
                   },
                   {
-                      "path":  "B-LOW-OW_Data/Managed/Unity.Mathematics.dll",
-                      "sha256":  "4a1363eaefa0217942f626850f1474805a143edf3386ab023d19008626c8299d",
-                      "size":  5632
-                  },
-                  {
                       "path":  "B-LOW-OW_Data/Managed/Unity.PathTracing.Runtime.dll",
-                      "sha256":  "9186b0a3e11b614650d2e2333d612a4ffdf50da9a196e5203581a17de8a85acf",
+                      "sha256":  "9fc01ee37833265abd9c7567875b663c842738f227ffd7efceb9a674423d5725",
                       "size":  152576
                   },
                   {
-                      "path":  "B-LOW-OW_Data/Managed/Unity.ProBuilder.Csg.dll",
-                      "sha256":  "998e5cae41eaeddba5b02e0f7c6c554be679bdd473a8a4f26aa3e2f6b15b27a6",
-                      "size":  16896
-                  },
-                  {
-                      "path":  "B-LOW-OW_Data/Managed/Unity.ProBuilder.dll",
-                      "sha256":  "18e0c79efeb2fc160aa96369b2cfc7d262d682b080f01d47201986fd8a567526",
-                      "size":  318464
-                  },
-                  {
-                      "path":  "B-LOW-OW_Data/Managed/Unity.ProBuilder.KdTree.dll",
-                      "sha256":  "be5c97ba378a5b1af8fc24f7f4ad5bdbc667295d8adfbbb479651a3f665320d7",
-                      "size":  18944
-                  },
-                  {
-                      "path":  "B-LOW-OW_Data/Managed/Unity.ProBuilder.Poly2Tri.dll",
-                      "sha256":  "8e2a5df079635fca71b7613e46d28ab173eed292155b8f88a03c321bcc38fe5f",
-                      "size":  34304
-                  },
-                  {
-                      "path":  "B-LOW-OW_Data/Managed/Unity.ProBuilder.Stl.dll",
-                      "sha256":  "890c870ef51f4978176cbc47dd2a154e85b6bd87c0a7b51a0ebbbad0163e345f",
-                      "size":  12800
-                  },
-                  {
                       "path":  "B-LOW-OW_Data/Managed/Unity.Profiling.Core.dll",
-                      "sha256":  "76341b35ad1b3112698b6a0bf355d99ba36d5ada8e6e882ef03b7883a61c548a",
+                      "sha256":  "55cf03cc6a29df9714d5b4ed657ac72edf581fa8b1db55575cb8c585aff94706",
                       "size":  8192
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
-                      "sha256":  "be7bc9c2b933aa6636d9130db3809ef78127f1926ce24d3a90aede850f8a7601",
+                      "sha256":  "0044cd6cbf2d20c1efb2fa3fb0a97525896a1c642e48e92792efe2c7bf1d98ee",
                       "size":  1084928
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
-                      "sha256":  "45dbc982ac8d6c902cadb8d505743c6838e06375bd80926760511647db55d4dc",
+                      "sha256":  "944b9b9166e15f7d3d7e3332a520f13228f1e8e1026ba507ff0788b6b701adb5",
                       "size":  11264
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
-                      "sha256":  "e7c13f53f7d8f9c7553a53cfb19004a0a5fccd2d1a694677361fa65ed81e3f5c",
+                      "sha256":  "9679105e275e10dab94ea66894b088b887c8e07f54c31154948e21032b3985cc",
                       "size":  3584
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
-                      "sha256":  "cf1c885dabd20d8ed5dcdf09b3c1f25bb29066cf9329dfebd9cb85a13a75530c",
+                      "sha256":  "c351623a2e6f4ae31d1f6a6ed51182ee017ca03704cdf576500afd355c05d7c8",
                       "size":  274944
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.RenderPipelines.HighDefinition.Config.Runtime.dll",
-                      "sha256":  "e17a8a6a8af88a31d5ab14f8de5c6fbffb55a7bd9ea0e2cd62b1c619818dea20",
+                      "sha256":  "4268993ae3ff113e0cac73f174a9bd3f268a5f0c6897926f48a27d024a80e0b5",
                       "size":  5632
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.RenderPipelines.HighDefinition.Runtime.dll",
-                      "sha256":  "5dc0c4b4752513303261ea4b0ea1ffed62f30e015ebfb08f4cddc4dc86e87a39",
+                      "sha256":  "d23ad3d99a6801b110725e0cd38a818aa88e7dbb7309b26d4203b16c7afd3182",
                       "size":  2406400
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
-                      "sha256":  "87b65c50bee6a60f5726f54544fd6bc1fa5f27975316e57c12693e5b8e21a0ae",
+                      "sha256":  "7e2267220c8e778d339722a105baee4f78891909c336f48e1e38e26c7194e746",
                       "size":  3584
                   },
                   {
@@ -405,38 +410,28 @@
                       "size":  70576
                   },
                   {
-                      "path":  "B-LOW-OW_Data/Managed/Unity.Splines.dll",
-                      "sha256":  "1cb5d0d4bf7d9750f43d0dad2c688f891e1c72d43b16f54c631d262cb81e3266",
-                      "size":  144384
-                  },
-                  {
                       "path":  "B-LOW-OW_Data/Managed/Unity.SurfaceCache.Runtime.dll",
-                      "sha256":  "ddeed637bfaaf4504bf1b14be55dab47f9d912a195a0b67c74c841420d84d7d5",
+                      "sha256":  "981871980012ab218783b251c7263eeb528bc0006134afe14b6c0ccad71211ef",
                       "size":  35840
                   },
                   {
-                      "path":  "B-LOW-OW_Data/Managed/Unity.TerrainTools.dll",
-                      "sha256":  "e44f13aa0600848d41659c8cc9fa8a57d12b668aa321b4b66310b1457da8d3fa",
-                      "size":  4096
-                  },
-                  {
                       "path":  "B-LOW-OW_Data/Managed/Unity.TextMeshPro.dll",
-                      "sha256":  "dc12b70330427eaeb6f0440acfd0cacdbaa7bee916b8164b71d6eeced1b135d3",
+                      "sha256":  "63166d1d65556c7a7b3a9da5de7d4f0d63ec337f438ce9b4eb43024939d9ff41",
                       "size":  438784
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.Timeline.dll",
-                      "sha256":  "356ac4c8a5f3d8eab94ce3e81f6356740e85e8947f76666fe78a5af4be745162",
+                      "sha256":  "1c7ff4529c235ddd250f8130f39b6740d3161077b7eb9cff653189af1f231e74",
                       "size":  120832
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.UnifiedRayTracing.Runtime.dll",
-                      "sha256":  "43549acc68734412e89cdf7f30ceea57cbbda5df6b6b84e3f6ad24e275b4c303",
+                      "sha256":  "002180db2aa574fe4abd6c28704bd681cf8dfe157487c57dbd5156dc0628bd8f",
                       "size":  101376
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.VisualEffectGraph.Runtime.dll",
-                      "sha256":  "eca444df9f26c7691a0641eabb3683b2c02091a1da394c51f243d78c8f5c0f9a",
+                      "sha256":  "1d5d3ae6cfea68bfd8e839d5d0323493f2c333a957856df453863c653e1c84b8",
                       "size":  93696
                   },
                   {
@@ -446,22 +441,22 @@
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.VisualScripting.Core.dll",
-                      "sha256":  "92cba326d1f6412f5bff67efdab842714f1a51551dea11751d4b1822137a501d",
+                      "sha256":  "95431ca9a7d52b7a16446ce096c570447ef8d332a7bbf9c55d0e542a897dfd80",
                       "size":  550400
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.VisualScripting.DocCodeExamples.dll",
-                      "sha256":  "a8e4772cdfd56ae08723b4415d25f9c820fc872c1a76dcdf20f1427f62eafcd3",
+                      "sha256":  "1e02c4a4ca659b4ac4726f46aeb09ee33363269e3ec8bc1c9f8a1677f96a43ca",
                       "size":  6144
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.VisualScripting.Flow.dll",
-                      "sha256":  "e73a33d964b46b1b2df4d10cb0a7e5876e9751535eca08f025a4769d2cee5399",
+                      "sha256":  "fb665c5dd824397a4cd8db65843e6ec06dce7ee7ecf843c9590f97fc79c54d51",
                       "size":  335872
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/Unity.VisualScripting.State.dll",
-                      "sha256":  "9ff4d4e95e3c72a745fb094bae73cc59925a98ceee0981e361ae5b7d5aa8e71d",
+                      "sha256":  "e0f656f44bd560368b91715b5485f41aecb445e6779d0852d250cf4a57583ae1",
                       "size":  27136
                   },
                   {
@@ -801,7 +796,7 @@
                   },
                   {
                       "path":  "B-LOW-OW_Data/Managed/UnityEngine.UI.dll",
-                      "sha256":  "2e82f640b0299aa0de46f30401bd8e4607a3b5dccb91a8737561cad3b3624e8c",
+                      "sha256":  "2967b54e34bcfae7255b930cde797dfe191db1f7d69c2ad6ee0f5005891f5787",
                       "size":  269312
                   },
                   {
@@ -905,14 +900,24 @@
                       "size":  96168
                   },
                   {
+                      "path":  "B-LOW-OW_Data/Managed/websocket-sharp.dll",
+                      "sha256":  "85a7e343c4109c08c7a8011d6064b68e0537147917c609ddcf043ebaaceca7f0",
+                      "size":  247296
+                  },
+                  {
                       "path":  "B-LOW-OW_Data/Plugins/x86_64/libonigwrap.dll",
                       "sha256":  "c22db1e7be04c50eb47e67362bf705830bb95df30c02c22dd7add835ee777583",
                       "size":  551336
                   },
                   {
                       "path":  "B-LOW-OW_Data/Plugins/x86_64/lib_burst_generated.dll",
-                      "sha256":  "86e7e8a9bd715dedbcb82f0f644e05321dc085d669c4c78c86c277113d4e3477",
-                      "size":  1050112
+                      "sha256":  "5a2d50f65aba4158749f8a2b4cd94dca2c18972f403676e9e5d1c8e426bc0ce9",
+                      "size":  1046528
+                  },
+                  {
+                      "path":  "B-LOW-OW_Data/Plugins/x86_64/nanosockets.dll",
+                      "sha256":  "037985bd36c9b6984e8680e9f508491a7056f010bdb7207e32f07aa149eaaf00",
+                      "size":  96768
                   },
                   {
                       "path":  "B-LOW-OW_Data/Resources/unity default resources",
@@ -1031,6 +1036,327 @@
                   }
               ],
     "patches":  [
-
+                    {
+                        "fromVersion":  "0.0.6",
+                        "toVersion":  "0.0.9",
+                        "archiveFileName":  "B-LOW-OW-Patch-0.0.6-to-0.0.9.zip",
+                        "archiveSha256":  "6b387e870b41e6adc8e81594a12d6ff6f6f908fe90208d376103c20ae8eb27cd",
+                        "archiveSize":  16468521,
+                        "parts":  [
+                                      {
+                                          "fileName":  "B-LOW-OW-Patch-0.0.6-to-0.0.9.part001",
+                                          "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/ow-v0.0.9/B-LOW-OW-Patch-0.0.6-to-0.0.9.part001",
+                                          "sha256":  "6b387e870b41e6adc8e81594a12d6ff6f6f908fe90208d376103c20ae8eb27cd",
+                                          "size":  16468521
+                                      }
+                                  ],
+                        "files":  [
+                                      {
+                                          "path":  "version.txt",
+                                          "sha256":  "fbd67aac4b5cb6f5facc2a255c8d6e652257abcd39a8a4b5e778041b73508dcd",
+                                          "size":  10
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW--_BackUpThisFolder_ButDontShipItWithYourGame/x86_64/lib_burst_generated.txt",
+                                          "sha256":  "3472b335d3d2602cb7f09cf64a4e2c6c42ef663e7cdb9f058d6f528233a58b5c",
+                                          "size":  195618
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/app.info",
+                                          "sha256":  "ff3ecac8f090f9d277a04b8e6767c417bac9b3a21842ec8d12821749e061f2fb",
+                                          "size":  25
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/boot.config",
+                                          "sha256":  "92bf20d685f7197b382c3820aa6c9d4c0ae4854f642ff35385ac6eed365d3bf6",
+                                          "size":  156
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/globalgamemanagers",
+                                          "sha256":  "f5c9d7adab9abd4c14dddeb0e7df63974858f7ecab8affc0cf39f1f550f83692",
+                                          "size":  224020
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/globalgamemanagers.assets",
+                                          "sha256":  "ba3470c5f0ee781048dcc59d4b60e6db0b853178dc2100febbbcba5bdeed94e3",
+                                          "size":  45390612
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/level0",
+                                          "sha256":  "fe512b3895ba6b9d1f5569e56638844c2a3ff5dd20ef5c3860ac2e774feb3741",
+                                          "size":  53988
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/level1",
+                                          "sha256":  "8ad2c753db53233de8d869e3a069422524c761e45135500026b73339a2397d09",
+                                          "size":  5260
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/resources.assets",
+                                          "sha256":  "a24dd84710e067ea6c25a067dbe0ccd97e52bc16ed477f36d5750a5c8fa72265",
+                                          "size":  810600
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/resources.assets.resS",
+                                          "sha256":  "8df0db11130d9468589fd343974420462e4b6c24b177d491db598813e9d25ee3",
+                                          "size":  60176
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/RuntimeInitializeOnLoads.json",
+                                          "sha256":  "96dde9fc66507db0dd5f8ff001dcdbc14275a0193835cd3bdf95ab3520e96f9c",
+                                          "size":  8067
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/ScriptingAssemblies.json",
+                                          "sha256":  "55e72ab98be76ce66edbc9c223472a729cfe28d40f1770281b6410e66b753037",
+                                          "size":  5024
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/sharedassets0.assets",
+                                          "sha256":  "ef300a03af1d100ccd06e22376819f92f6e315a86715d50ee67c4a17f2744745",
+                                          "size":  772988
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/sharedassets0.assets.resS",
+                                          "sha256":  "f7f0d4554672405c72cdb73950ed1e4b830f00acd052d8b5ae0dd6706eaf48bd",
+                                          "size":  1572864
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/sharedassets1.assets",
+                                          "sha256":  "326f40b7a4e23f24fc60c838cdc62e321d34f1ce193df6a9e49bc4ceb92ae5bb",
+                                          "size":  11872
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Assembly-CSharp.dll",
+                                          "sha256":  "da51c348474d4eb44d2910bc170f04e4ad50fa56eabc4edbb38c83fc5737b2f0",
+                                          "size":  28160
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Fusion.Common.dll",
+                                          "sha256":  "3a3549688200f6b72177cd3cc9484af61498b0a4019e39babc098410e1659053",
+                                          "size":  172032
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Fusion.Log.dll",
+                                          "sha256":  "2e5d2bf813908d311bbf6159983d020511aceb1e249203ed50eb1960e96095d0",
+                                          "size":  39424
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Fusion.Realtime.dll",
+                                          "sha256":  "bbfb85556241f63d9a3052459c075ad2cc5a56098a16d571432bb13e5b36ad63",
+                                          "size":  19968
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Fusion.Runtime.dll",
+                                          "sha256":  "d213b95e4694c167f5f6faffcbd75ca1e47f19a9249c91a4964f8342fac9b560",
+                                          "size":  967680
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Fusion.Sockets.dll",
+                                          "sha256":  "ba2bba96e7b1bb93249634e1fcf13657f38d05589882ad968df8322a846d070b",
+                                          "size":  181248
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Fusion.Unity.dll",
+                                          "sha256":  "12260655e24d4c50adc1786382111e0b02bdd11e81cff1bc469888dd1ec70f96",
+                                          "size":  450560
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/NanoSockets.dll",
+                                          "sha256":  "22b6b68d81c58d0d41e45d0011896ff62bfca0ff9c508f0d2872a215119e4091",
+                                          "size":  8192
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Photon.Realtime.dll",
+                                          "sha256":  "d04cf2b0960e9afc1ba5f7d9a3883ecda57634e13dab762d279d375488869a9f",
+                                          "size":  146432
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/PhotonClient.dll",
+                                          "sha256":  "afa745d8d5f085e2259e172bf68964528c8a8478e5adfea92fa9c39635179426",
+                                          "size":  218624
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.Burst.dll",
+                                          "sha256":  "6e16cdd7b94b590497c4d63cb686336ab77266d9079305dd99ce31f10adff164",
+                                          "size":  5120
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.Collections.dll",
+                                          "sha256":  "286cb5e865e852fe3609d505dbac63a36f56f246bc4b051484e8eafc61c85f14",
+                                          "size":  442368
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.Collections.Tests.CoreCLR.InternalJobNestedPrivate.dll",
+                                          "sha256":  "b3793fb358b3bee80373810c064d7bd68dcbab4f7141e7bee3e0642b4c5dedf9",
+                                          "size":  4608
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.Collections.Tests.CoreCLR.PrivateJobNested.dll",
+                                          "sha256":  "40be7d76726a068df53138172e32f4c0870407aaa9b1054a221f1513137bb8b9",
+                                          "size":  4096
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.Collections.Tests.CoreCLR.ProtectedJobNested.dll",
+                                          "sha256":  "bd79d03ef225f0dbb0d9dbce79f85120368ea69b160afe65cb0199c8fce8d6eb",
+                                          "size":  4096
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.Collections.Tests.CoreCLR.PublicJobPrivateGeneric.dll",
+                                          "sha256":  "b8566010fb4f364d892174f0ce8becbd4613003f928bbbc95a3fad897df6b58c",
+                                          "size":  4608
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.InputSystem.dll",
+                                          "sha256":  "be733384810b94d1f76b8fe59e4af8cc73fc49a19a6148605df033fe45a439e0",
+                                          "size":  1094656
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.InputSystem.ForUI.dll",
+                                          "sha256":  "2a4e67e93adfebca3432881544f111e5bbd45ce1cfd3837271408cf17b5f9818",
+                                          "size":  15360
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.InternalAPIEngineBridge.004.dll",
+                                          "sha256":  "022145bfe1cff2b26a74b627d7ae3b191f7ba886be40f0f85ba601c779fa5ecf",
+                                          "size":  4096
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.InternalAPIEngineBridge.ObjectDispatcher.Runtime.dll",
+                                          "sha256":  "7e96116e153b618f4df1425c014a0b9d60874f3c86c5943c321626af8cb58365",
+                                          "size":  5632
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.dll",
+                                          "sha256":  "ee60f7389f75545cad5f29180865cf244942d5dbe2f26d22068653a09d747462",
+                                          "size":  3584
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.PathTracing.Runtime.dll",
+                                          "sha256":  "9fc01ee37833265abd9c7567875b663c842738f227ffd7efceb9a674423d5725",
+                                          "size":  152576
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.Profiling.Core.dll",
+                                          "sha256":  "55cf03cc6a29df9714d5b4ed657ac72edf581fa8b1db55575cb8c585aff94706",
+                                          "size":  8192
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+                                          "sha256":  "0044cd6cbf2d20c1efb2fa3fb0a97525896a1c642e48e92792efe2c7bf1d98ee",
+                                          "size":  1084928
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll",
+                                          "sha256":  "944b9b9166e15f7d3d7e3332a520f13228f1e8e1026ba507ff0788b6b701adb5",
+                                          "size":  11264
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll",
+                                          "sha256":  "9679105e275e10dab94ea66894b088b887c8e07f54c31154948e21032b3985cc",
+                                          "size":  3584
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll",
+                                          "sha256":  "c351623a2e6f4ae31d1f6a6ed51182ee017ca03704cdf576500afd355c05d7c8",
+                                          "size":  274944
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.RenderPipelines.HighDefinition.Config.Runtime.dll",
+                                          "sha256":  "4268993ae3ff113e0cac73f174a9bd3f268a5f0c6897926f48a27d024a80e0b5",
+                                          "size":  5632
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.RenderPipelines.HighDefinition.Runtime.dll",
+                                          "sha256":  "d23ad3d99a6801b110725e0cd38a818aa88e7dbb7309b26d4203b16c7afd3182",
+                                          "size":  2406400
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+                                          "sha256":  "7e2267220c8e778d339722a105baee4f78891909c336f48e1e38e26c7194e746",
+                                          "size":  3584
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.SurfaceCache.Runtime.dll",
+                                          "sha256":  "981871980012ab218783b251c7263eeb528bc0006134afe14b6c0ccad71211ef",
+                                          "size":  35840
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.TextMeshPro.dll",
+                                          "sha256":  "63166d1d65556c7a7b3a9da5de7d4f0d63ec337f438ce9b4eb43024939d9ff41",
+                                          "size":  438784
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.Timeline.dll",
+                                          "sha256":  "1c7ff4529c235ddd250f8130f39b6740d3161077b7eb9cff653189af1f231e74",
+                                          "size":  120832
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.UnifiedRayTracing.Runtime.dll",
+                                          "sha256":  "002180db2aa574fe4abd6c28704bd681cf8dfe157487c57dbd5156dc0628bd8f",
+                                          "size":  101376
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.VisualEffectGraph.Runtime.dll",
+                                          "sha256":  "1d5d3ae6cfea68bfd8e839d5d0323493f2c333a957856df453863c653e1c84b8",
+                                          "size":  93696
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.VisualScripting.Core.dll",
+                                          "sha256":  "95431ca9a7d52b7a16446ce096c570447ef8d332a7bbf9c55d0e542a897dfd80",
+                                          "size":  550400
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.VisualScripting.DocCodeExamples.dll",
+                                          "sha256":  "1e02c4a4ca659b4ac4726f46aeb09ee33363269e3ec8bc1c9f8a1677f96a43ca",
+                                          "size":  6144
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.VisualScripting.Flow.dll",
+                                          "sha256":  "fb665c5dd824397a4cd8db65843e6ec06dce7ee7ecf843c9590f97fc79c54d51",
+                                          "size":  335872
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/Unity.VisualScripting.State.dll",
+                                          "sha256":  "e0f656f44bd560368b91715b5485f41aecb445e6779d0852d250cf4a57583ae1",
+                                          "size":  27136
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/UnityEngine.UI.dll",
+                                          "sha256":  "2967b54e34bcfae7255b930cde797dfe191db1f7d69c2ad6ee0f5005891f5787",
+                                          "size":  269312
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Managed/websocket-sharp.dll",
+                                          "sha256":  "85a7e343c4109c08c7a8011d6064b68e0537147917c609ddcf043ebaaceca7f0",
+                                          "size":  247296
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Plugins/x86_64/lib_burst_generated.dll",
+                                          "sha256":  "5a2d50f65aba4158749f8a2b4cd94dca2c18972f403676e9e5d1c8e426bc0ce9",
+                                          "size":  1046528
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/Plugins/x86_64/nanosockets.dll",
+                                          "sha256":  "037985bd36c9b6984e8680e9f508491a7056f010bdb7207e32f07aa149eaaf00",
+                                          "size":  96768
+                                      }
+                                  ],
+                        "deletedFiles":  [
+                                             "B-LOW-OW_BackUpThisFolder_ButDontShipItWithYourGame/x86_64/lib_burst_generated.txt",
+                                             "B-LOW-OW_Data/Managed/Autodesk.Fbx.BuildTestAssets.dll",
+                                             "B-LOW-OW_Data/Managed/Autodesk.Fbx.dll",
+                                             "B-LOW-OW_Data/Managed/Unity.Cinemachine.dll",
+                                             "B-LOW-OW_Data/Managed/Unity.Formats.Fbx.Runtime.dll",
+                                             "B-LOW-OW_Data/Managed/Unity.Mathematics.dll",
+                                             "B-LOW-OW_Data/Managed/Unity.ProBuilder.Csg.dll",
+                                             "B-LOW-OW_Data/Managed/Unity.ProBuilder.dll",
+                                             "B-LOW-OW_Data/Managed/Unity.ProBuilder.KdTree.dll",
+                                             "B-LOW-OW_Data/Managed/Unity.ProBuilder.Poly2Tri.dll",
+                                             "B-LOW-OW_Data/Managed/Unity.ProBuilder.Stl.dll",
+                                             "B-LOW-OW_Data/Managed/Unity.Splines.dll",
+                                             "B-LOW-OW_Data/Managed/Unity.TerrainTools.dll"
+                                         ]
+                    }
                 ]
 }
