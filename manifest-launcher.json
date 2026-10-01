@@ -1,10 +1,10 @@
 {
-    "launcherVersion":  "0.0.3",
-    "archiveFileName":  "B-LOW-Launcher-0.0.3.zip",
-    "archiveSha256":  "f9fc9753c022295c60f77fe09a67ebf1fe1c1e011615274e2ba756db875ee4ce",
-    "archiveSize":  1634740,
-    "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/launcher-v0.0.3/B-LOW-Launcher-0.0.3.zip",
-    "patchNotes":  "Added Auto Updates + Account Creation",
+    "launcherVersion":  "0.0.4",
+    "archiveFileName":  "B-LOW-Launcher-0.0.4.zip",
+    "archiveSha256":  "5340b20a2456e31e593a59402434644371915ecf0c47d20260655e50f9318b21",
+    "archiveSize":  1635937,
+    "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/launcher-v0.0.4/B-LOW-Launcher-0.0.4.zip",
+    "patchNotes":  "Added Launtcher Updates + Unit Sync across games",
     "files":  [
                   {
                       "path":  "B-LOW.ico",
@@ -18,8 +18,8 @@
                   },
                   {
                       "path":  "BLOW.Launcher.dll",
-                      "sha256":  "4aa8909ef53a033ce8ad267635023600e22e1b9e7ebc96b432ffec7da71bf165",
-                      "size":  1534976
+                      "sha256":  "034bee1f0f5c12c3cb6dba8543b2630c7db554365cd67925f602cfaebe226e6a",
+                      "size":  1536512
                   },
                   {
                       "path":  "BLOW.Launcher.exe",
@@ -28,8 +28,8 @@
                   },
                   {
                       "path":  "BLOW.Launcher.pdb",
-                      "sha256":  "7ca036e1c0da8b712b93cf69435ee6c09c28a322fbe3068383d8b32492e1da62",
-                      "size":  51052
+                      "sha256":  "9ba8c2031f962c7aecf078f4705f383e6abad78bb95c10d78d70257e007a12e9",
+                      "size":  51488
                   },
                   {
                       "path":  "BLOW.Launcher.runtimeconfig.json",
@@ -37,13 +37,18 @@
                       "size":  519
                   },
                   {
-                      "path":  "Build-BLOW-MSI-FINAL.ps1",
-                      "sha256":  "75c6c522bfc7211dd6715bfe043865ab72f7575c88bf47533fa201714afd572b",
-                      "size":  14353
+                      "path":  "Build-BLOW-MSI-FINAL-WITH-UPDATER.bat",
+                      "sha256":  "c3b37ae0b8455b4a4126364c9e20510e39db8c3ce80be34d121e2236e17390e6",
+                      "size":  130
+                  },
+                  {
+                      "path":  "Build-BLOW-MSI-FINAL-WITH-UPDATER.ps1",
+                      "sha256":  "08d5b82e94b07b45fab520ff3b2524ba54fe25b6a12aeb580b23175c79d52f96",
+                      "size":  15599
                   },
                   {
                       "path":  "launcher-version.txt",
-                      "sha256":  "c284a56dbde614d80836bb5b325eeffe19a0cfd08b93b0b2afa6861634b4e5a3",
+                      "sha256":  "3a77430f3ab55da121403893c3ee30a797711fe44b2144ebeb09087ed9bb3527",
                       "size":  10
                   }
               ]
