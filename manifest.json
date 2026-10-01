@@ -1,18 +1,18 @@
 {
-    "gameVersion":  "0.2.1",
+    "gameVersion":  "0.2.3",
     "executable":  "B-LOW.exe",
-    "archiveFileName":  "B-LOW-0.2.1.zip",
-    "archiveSha256":  "b71b4acb762a94780dd4327837e9a3ae6c6c284b5da9a23e8ea77383e230ff4a",
-    "archiveSize":  201672892,
-    "patchNotes":  ".Uploaded To Launtcher",
-   "parts":  [
-    {
-        "fileName":  "B-LOW-0.2.1.part001",
-        "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.1/B-LOW-0.2.1.part001",
-        "sha256":  "b71b4acb762a94780dd4327837e9a3ae6c6c284b5da9a23e8ea77383e230ff4a",
-        "size":  201672892
-    }
-],
+    "archiveFileName":  "B-LOW-0.2.3.zip",
+    "archiveSha256":  "ef3856d852a8a8ac2a49ee6b887560e1974c78c76a3f96b025950ec495dbeba5",
+    "archiveSize":  201574053,
+    "patchNotes":  "Connected to B-LOW Launtcher",
+    "parts":  [
+                  {
+                      "fileName":  "B-LOW-0.2.3.part001",
+                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.3/B-LOW-0.2.3.part001",
+                      "sha256":  "ef3856d852a8a8ac2a49ee6b887560e1974c78c76a3f96b025950ec495dbeba5",
+                      "size":  201574053
+                  }
+              ],
     "files":  [
                   {
                       "path":  "B-LOW.exe",
@@ -41,7 +41,7 @@
                   },
                   {
                       "path":  "version.txt",
-                      "sha256":  "b8cdc6131a7d2b710d4b9c87ab6e373b5beb28358400c32288b3170c867e1e64",
+                      "sha256":  "ea622a28fbf371878d8862455fd90e784d6c17569b07f8f6e2aa410f99adc263",
                       "size":  10
                   },
                   {
@@ -56,18 +56,18 @@
                   },
                   {
                       "path":  "B-LOW_Data/boot.config",
-                      "sha256":  "6b96ae5e184229baff734e1cf9fe75a567c85a0095b6ac13cfaaacea3a30c02c",
+                      "sha256":  "14b0c72291000d4e5ed9e1d817349d0356304b7ca125be00ad3c2613ead785b9",
                       "size":  156
                   },
                   {
                       "path":  "B-LOW_Data/globalgamemanagers",
-                      "sha256":  "dbd5aa942f2e7489e5560f676a29b8cbf78497d404bddaa41a224b0509762135",
-                      "size":  131268
+                      "sha256":  "b468cdfacd90be8e5c56d42475e9a88261b24cd52d80dfa0737ecddddd006707",
+                      "size":  131316
                   },
                   {
                       "path":  "B-LOW_Data/globalgamemanagers.assets",
-                      "sha256":  "11d926b146a1b050cd5cdfc475fb9804336c2755cc54f0ec077f82fd6e612ff7",
-                      "size":  1477064
+                      "sha256":  "c4f3171b42119d452c5c31fb63a7dce3bfe2de5f5e3269b7c230d4e2578f322a",
+                      "size":  1477304
                   },
                   {
                       "path":  "B-LOW_Data/globalgamemanagers.assets.resS",
@@ -76,58 +76,53 @@
                   },
                   {
                       "path":  "B-LOW_Data/level0",
-                      "sha256":  "a71f54f7938883c7230e61f64952c529a18bef7c23a01dc5c86a3923521367f3",
-                      "size":  16536
+                      "sha256":  "ddc3dd525e2574a446b98e58c224040a2c9fb032caeea78ca72a363104418477",
+                      "size":  17368
                   },
                   {
                       "path":  "B-LOW_Data/level1",
-                      "sha256":  "ed80529c5be9eaa641060d103a9f470302ca3d4e0ca085f03d45addfff0b87e5",
-                      "size":  17016
-                  },
-                  {
-                      "path":  "B-LOW_Data/level2",
-                      "sha256":  "dad7a19044d443a359eda359416d3d6997310fb73ef2866efc9ec27d0aeffa20",
+                      "sha256":  "5f1850443ee8272198971d641c250f5d91501a06142ec34ea1d43ebff439d6f5",
                       "size":  12552
                   },
                   {
+                      "path":  "B-LOW_Data/level2",
+                      "sha256":  "55cfaaf69ed167a373421b6236122c58f9d9b71d738636aea01d1f31780dfdb3",
+                      "size":  137159932
+                  },
+                  {
                       "path":  "B-LOW_Data/level3",
-                      "sha256":  "9652c274f1a5f87d9340b275710d7401b19920308232fee42b2adaae4a094016",
-                      "size":  137159980
+                      "sha256":  "07c20af2c94efc196fc1a238744b78014faf03c03cd25aa68b7b87b471b557c4",
+                      "size":  2211288
                   },
                   {
                       "path":  "B-LOW_Data/level4",
-                      "sha256":  "43bfcf61e7c7262eae5abb8acec8a3b557364b0ba4aaa08f09e56832d96a13f9",
-                      "size":  2211320
-                  },
-                  {
-                      "path":  "B-LOW_Data/level5",
-                      "sha256":  "541ad8334f39bf6ba33ab0ed33e2fc9ad7e2fd49e0ec8eeef5067dc8dde60530",
+                      "sha256":  "604c9481f154d9d1b27ea2d6bb0fa5bd821595fd1aed00db573b082f7b32b549",
                       "size":  847016
                   },
                   {
-                      "path":  "B-LOW_Data/level6",
-                      "sha256":  "a9fbefaff5613155ab48ab6ac906b04a87ea1b7fdb56dd95497787766efcc7db",
-                      "size":  757308
+                      "path":  "B-LOW_Data/level5",
+                      "sha256":  "85dbc3f344b48216bd24dabaae8a9064fc39554560f72cea516161ad95c3e283",
+                      "size":  757260
                   },
                   {
-                      "path":  "B-LOW_Data/level7",
-                      "sha256":  "bc6f06b36e7cbb75d745390144ccf9dfd852ba094ea456601707013e2464d197",
+                      "path":  "B-LOW_Data/level6",
+                      "sha256":  "4ec12ef2e4172c96ed6e5762e8a0d4dbed8889526fa3472fbc7e54c151ec4df2",
                       "size":  29064
                   },
                   {
                       "path":  "B-LOW_Data/resources.assets",
-                      "sha256":  "14af8b9aba36365497f692658f1d8590b576949f5c802492d2f43f5bf5e038db",
-                      "size":  57372
+                      "sha256":  "630bb8f2dcbf9557498d3508a326fbeb7c72c526d38f33adbe85a13f3c3bf240",
+                      "size":  239772
                   },
                   {
                       "path":  "B-LOW_Data/resources.assets.resS",
-                      "sha256":  "01e682b028748d9a4be033fe2eeb7ead33375a0a0fe70dc38d606f5a051f68a1",
-                      "size":  873888
+                      "sha256":  "ad9c6b30e27831134488984623a1b4d06b49f3978c15a0a149afe1f3954079ed",
+                      "size":  1048672
                   },
                   {
                       "path":  "B-LOW_Data/RuntimeInitializeOnLoads.json",
-                      "sha256":  "4c6530de1268d9f43beb5fb0ed54cb7d4d09244f78a0767db763d9fdd73ad4a7",
-                      "size":  5390
+                      "sha256":  "506cfeb43a9add6bf205b86ee7296c9af0fc043f98283a7bdb926d812cefffd2",
+                      "size":  5544
                   },
                   {
                       "path":  "B-LOW_Data/ScriptingAssemblies.json",
@@ -136,83 +131,73 @@
                   },
                   {
                       "path":  "B-LOW_Data/sharedassets0.assets",
-                      "sha256":  "4aab29532261ab5411db09abed8314c4ef29108f4e90dadc7e269003ed0e7282",
-                      "size":  9071248
+                      "sha256":  "2c823e8ebd376efab1781370d845982ef0f326ca2fb443e45fb74dc5e2e3b53b",
+                      "size":  4155504
                   },
                   {
                       "path":  "B-LOW_Data/sharedassets0.assets.resS",
-                      "sha256":  "cfc5905f2eb3f9b88fb1d7f36f42be3aebbce586a11c6764a794a2c0252ccf7c",
-                      "size":  1747648
+                      "sha256":  "d33698e2d12cb81dd477e37622fc94f89c0d80e9a473ee53d98a0efed41377d5",
+                      "size":  35117200
                   },
                   {
-                      "path":  "B-LOW_Data/sharedassets1.assets",
-                      "sha256":  "adff6c8e9ae6af1b13512cdec5d31d7dcf7ef838b88c7cf7743536e8e0472c03",
-                      "size":  3358008
-                  },
-                  {
-                      "path":  "B-LOW_Data/sharedassets1.assets.resS",
-                      "sha256":  "36e966881755457d7355865e2ce9a196f31e02d132d3d5dac7588344f1cf4dae",
-                      "size":  33544336
-                  },
-                  {
-                      "path":  "B-LOW_Data/sharedassets1.resource",
+                      "path":  "B-LOW_Data/sharedassets0.resource",
                       "sha256":  "a8757d339f7abfded82978f22b71596fbb87d12f0ff3fdd82ff90105b23d993a",
                       "size":  14305952
                   },
                   {
-                      "path":  "B-LOW_Data/sharedassets2.assets",
-                      "sha256":  "f86a8ede5d4a4698e19d416d060340039f621b0dbecb4b9f5359463a0c488d6c",
-                      "size":  20796
+                      "path":  "B-LOW_Data/sharedassets1.assets",
+                      "sha256":  "06ae0554b0f8aff1180fac89f833764d61693b79f6273da90cd2239fa7dfd04d",
+                      "size":  27004
                   },
                   {
-                      "path":  "B-LOW_Data/sharedassets2.assets.resS",
+                      "path":  "B-LOW_Data/sharedassets1.assets.resS",
                       "sha256":  "0830e1badb00f428d20def555983068dccfcc717f2abf3b74ba30f2a4bb7199b",
                       "size":  25165824
                   },
                   {
-                      "path":  "B-LOW_Data/sharedassets3.assets",
-                      "sha256":  "c346d77320b3fa9ddded6d9fda6d7b609152de3244c2e9314b2eebaa73a3ad8f",
-                      "size":  19541256
+                      "path":  "B-LOW_Data/sharedassets2.assets",
+                      "sha256":  "a00db043bcb1e9953e6effbd61a214e8bc4373473fa0c3ab2114ab06ce41d010",
+                      "size":  27096296
                   },
                   {
-                      "path":  "B-LOW_Data/sharedassets3.assets.resS",
+                      "path":  "B-LOW_Data/sharedassets2.assets.resS",
                       "sha256":  "a97a4f98df9abacc3b7abfa80dbc68213f2e0b6841fa994c1f83c7ee32c6d8b7",
                       "size":  78103264
                   },
                   {
-                      "path":  "B-LOW_Data/sharedassets3.resource",
+                      "path":  "B-LOW_Data/sharedassets2.resource",
                       "sha256":  "a96927a6162419c6b5ced9098fd10dea2e6354e114fd14e2ae371feac155b485",
                       "size":  4558016
                   },
                   {
+                      "path":  "B-LOW_Data/sharedassets3.assets",
+                      "sha256":  "aad8583049f8ced5dca6d21a8355df1a4fb4c1e15b9a3b3c9eab9668b30ec3a7",
+                      "size":  21264
+                  },
+                  {
                       "path":  "B-LOW_Data/sharedassets4.assets",
-                      "sha256":  "d0be8cc700227d84fc820c4259d11daf60a92b25b06388310b66631aa4cd1dda",
-                      "size":  21296
+                      "sha256":  "c7f852226dce75444fffa5cba130d488fa2d18dddbd9156824fa54ae529532ef",
+                      "size":  2765584
                   },
                   {
                       "path":  "B-LOW_Data/sharedassets5.assets",
-                      "sha256":  "b9a39e41b7460ddf1063b50bd69ad37b1adcebb024c8660986f354f2e6df1d0b",
-                      "size":  2765552
+                      "sha256":  "c10b04acf43fdc5c76c787bfe3ebd0f801818e06726343b0ea41f92b78326584",
+                      "size":  14969
                   },
                   {
                       "path":  "B-LOW_Data/sharedassets6.assets",
-                      "sha256":  "a92081611d2363a86df991aaa7f5e5f1994754343619174d23335fbc3f182f56",
-                      "size":  14981
+                      "sha256":  "84c619ac7fcbab8ac00211562100bca3dd06d0c056ad0ddb5cfd9c38b363a1be",
+                      "size":  5360
                   },
                   {
-                      "path":  "B-LOW_Data/sharedassets7.assets",
-                      "sha256":  "751c6a732189f1c55f949a4d2b1c41a47246645c545e80d61dc265be21ef4499",
-                      "size":  5424
-                  },
-                  {
-                      "path":  "B-LOW_Data/sharedassets7.assets.resS",
+                      "path":  "B-LOW_Data/sharedassets6.assets.resS",
                       "sha256":  "48acd7e6ad493bf17cd782db1212b47141646cb9f70a08bfc48ee82ec2da0119",
                       "size":  25165824
                   },
                   {
                       "path":  "B-LOW_Data/Managed/Assembly-CSharp.dll",
-                      "sha256":  "512f6253fe3a968973a4c91aac5c3f70ff7a6aa4e9840e1f6e6ba0eaf97f2c41",
-                      "size":  190464
+                      "sha256":  "632f77d268fba837fe6509701a359852768e663a4a5cb695cd2d323a29ff980a",
+                      "size":  198656
                   },
                   {
                       "path":  "B-LOW_Data/Managed/Mono.Security.dll",
@@ -1115,52 +1100,217 @@
                       "size":  25817
                   }
               ],
- "patches": [
-    {
-        "fromVersion": "0.1.9",
-        "toVersion": "0.2.0",
-        "archiveFileName": "B-LOW-Patch-0.1.9-to-0.2.0.zip",
-        "archiveSha256": "9de3a40169f694256ef5db0d4c87cc7cc8d33eb71613f984a28b681814ced8da",
-        "archiveSize": 132,
-        "parts": [
-            {
-                "fileName": "B-LOW-Patch-0.1.9-to-0.2.0.part001",
-                "downloadUrl": "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.0/B-LOW-Patch-0.1.9-to-0.2.0.part001",
-                "sha256": "9de3a40169f694256ef5db0d4c87cc7cc8d33eb71613f984a28b681814ced8da",
-                "size": 132
-            }
-        ],
-        "files": [
-            {
-                "path": "version.txt",
-                "sha256": "59c0f26f5a730eadfc114ed2baa6ba6808a16ceb8a83fca3bb9b2626c7761b33",
-                "size": 10
-            }
-        ],
-        "deletedFiles": []
-    },
-    {
-        "fromVersion": "0.2.0",
-        "toVersion": "0.2.1",
-        "archiveFileName": "B-LOW-Patch-0.2.0-to-0.2.1.zip",
-        "archiveSha256": "657a85ee9ba809161d47784417f9abe47c7fbd04fbad4293afaf61376da25694",
-        "archiveSize": 132,
-        "parts": [
-            {
-                "fileName": "B-LOW-Patch-0.2.0-to-0.2.1.part001",
-                "downloadUrl": "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.1/B-LOW-Patch-0.2.0-to-0.2.1.part001",
-                "sha256": "657a85ee9ba809161d47784417f9abe47c7fbd04fbad4293afaf61376da25694",
-                "size": 132
-            }
-        ],
-        "files": [
-            {
-                "path": "version.txt",
-                "sha256": "b8cdc6131a7d2b710d4b9c87ab6e373b5beb28358400c32288b3170c867e1e64",
-                "size": 10
-            }
-        ],
-        "deletedFiles": []
-    }
-]
+    "patches":  [
+                    {
+                        "fromVersion":  "0.1.9",
+                        "toVersion":  "0.2.0",
+                        "archiveFileName":  "B-LOW-Patch-0.1.9-to-0.2.0.zip",
+                        "archiveSha256":  "9de3a40169f694256ef5db0d4c87cc7cc8d33eb71613f984a28b681814ced8da",
+                        "archiveSize":  132,
+                        "parts":  {
+                                      "fileName":  "B-LOW-Patch-0.1.9-to-0.2.0.part001",
+                                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.0/B-LOW-Patch-0.1.9-to-0.2.0.part001",
+                                      "sha256":  "9de3a40169f694256ef5db0d4c87cc7cc8d33eb71613f984a28b681814ced8da",
+                                      "size":  132
+                                  },
+                        "files":  [
+                                      {
+                                          "path":  "version.txt",
+                                          "sha256":  "59c0f26f5a730eadfc114ed2baa6ba6808a16ceb8a83fca3bb9b2626c7761b33",
+                                          "size":  10
+                                      }
+                                  ],
+                        "deletedFiles":  [
+
+                                         ]
+                    },
+                    {
+                        "fromVersion":  "0.2.0",
+                        "toVersion":  "0.2.1",
+                        "archiveFileName":  "B-LOW-Patch-0.2.0-to-0.2.1.zip",
+                        "archiveSha256":  "657a85ee9ba809161d47784417f9abe47c7fbd04fbad4293afaf61376da25694",
+                        "archiveSize":  132,
+                        "parts":  {
+                                      "fileName":  "B-LOW-Patch-0.2.0-to-0.2.1.part001",
+                                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.1/B-LOW-Patch-0.2.0-to-0.2.1.part001",
+                                      "sha256":  "657a85ee9ba809161d47784417f9abe47c7fbd04fbad4293afaf61376da25694",
+                                      "size":  132
+                                  },
+                        "files":  [
+                                      {
+                                          "path":  "version.txt",
+                                          "sha256":  "b8cdc6131a7d2b710d4b9c87ab6e373b5beb28358400c32288b3170c867e1e64",
+                                          "size":  10
+                                      }
+                                  ],
+                        "deletedFiles":  [
+
+                                         ]
+                    },
+                    {
+                        "fromVersion":  "0.2.1",
+                        "toVersion":  "0.2.3",
+                        "archiveFileName":  "B-LOW-Patch-0.2.1-to-0.2.3.zip",
+                        "archiveSha256":  "2c6a531d56e513f6999d27b5a59da10fba2a7c544cc9f491ead6d5f56e995fad",
+                        "archiveSize":  162426772,
+                        "parts":  [
+                                      {
+                                          "fileName":  "B-LOW-Patch-0.2.1-to-0.2.3.part001",
+                                          "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.3/B-LOW-Patch-0.2.1-to-0.2.3.part001",
+                                          "sha256":  "2c6a531d56e513f6999d27b5a59da10fba2a7c544cc9f491ead6d5f56e995fad",
+                                          "size":  162426772
+                                      }
+                                  ],
+                        "files":  [
+                                      {
+                                          "path":  "version.txt",
+                                          "sha256":  "ea622a28fbf371878d8862455fd90e784d6c17569b07f8f6e2aa410f99adc263",
+                                          "size":  10
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/boot.config",
+                                          "sha256":  "14b0c72291000d4e5ed9e1d817349d0356304b7ca125be00ad3c2613ead785b9",
+                                          "size":  156
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/globalgamemanagers",
+                                          "sha256":  "b468cdfacd90be8e5c56d42475e9a88261b24cd52d80dfa0737ecddddd006707",
+                                          "size":  131316
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/globalgamemanagers.assets",
+                                          "sha256":  "c4f3171b42119d452c5c31fb63a7dce3bfe2de5f5e3269b7c230d4e2578f322a",
+                                          "size":  1477304
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/level0",
+                                          "sha256":  "ddc3dd525e2574a446b98e58c224040a2c9fb032caeea78ca72a363104418477",
+                                          "size":  17368
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/level1",
+                                          "sha256":  "5f1850443ee8272198971d641c250f5d91501a06142ec34ea1d43ebff439d6f5",
+                                          "size":  12552
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/level2",
+                                          "sha256":  "55cfaaf69ed167a373421b6236122c58f9d9b71d738636aea01d1f31780dfdb3",
+                                          "size":  137159932
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/level3",
+                                          "sha256":  "07c20af2c94efc196fc1a238744b78014faf03c03cd25aa68b7b87b471b557c4",
+                                          "size":  2211288
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/level4",
+                                          "sha256":  "604c9481f154d9d1b27ea2d6bb0fa5bd821595fd1aed00db573b082f7b32b549",
+                                          "size":  847016
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/level5",
+                                          "sha256":  "85dbc3f344b48216bd24dabaae8a9064fc39554560f72cea516161ad95c3e283",
+                                          "size":  757260
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/level6",
+                                          "sha256":  "4ec12ef2e4172c96ed6e5762e8a0d4dbed8889526fa3472fbc7e54c151ec4df2",
+                                          "size":  29064
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/resources.assets",
+                                          "sha256":  "630bb8f2dcbf9557498d3508a326fbeb7c72c526d38f33adbe85a13f3c3bf240",
+                                          "size":  239772
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/resources.assets.resS",
+                                          "sha256":  "ad9c6b30e27831134488984623a1b4d06b49f3978c15a0a149afe1f3954079ed",
+                                          "size":  1048672
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/RuntimeInitializeOnLoads.json",
+                                          "sha256":  "506cfeb43a9add6bf205b86ee7296c9af0fc043f98283a7bdb926d812cefffd2",
+                                          "size":  5544
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/sharedassets0.assets",
+                                          "sha256":  "2c823e8ebd376efab1781370d845982ef0f326ca2fb443e45fb74dc5e2e3b53b",
+                                          "size":  4155504
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/sharedassets0.assets.resS",
+                                          "sha256":  "d33698e2d12cb81dd477e37622fc94f89c0d80e9a473ee53d98a0efed41377d5",
+                                          "size":  35117200
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/sharedassets0.resource",
+                                          "sha256":  "a8757d339f7abfded82978f22b71596fbb87d12f0ff3fdd82ff90105b23d993a",
+                                          "size":  14305952
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/sharedassets1.assets",
+                                          "sha256":  "06ae0554b0f8aff1180fac89f833764d61693b79f6273da90cd2239fa7dfd04d",
+                                          "size":  27004
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/sharedassets1.assets.resS",
+                                          "sha256":  "0830e1badb00f428d20def555983068dccfcc717f2abf3b74ba30f2a4bb7199b",
+                                          "size":  25165824
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/sharedassets2.assets",
+                                          "sha256":  "a00db043bcb1e9953e6effbd61a214e8bc4373473fa0c3ab2114ab06ce41d010",
+                                          "size":  27096296
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/sharedassets2.assets.resS",
+                                          "sha256":  "a97a4f98df9abacc3b7abfa80dbc68213f2e0b6841fa994c1f83c7ee32c6d8b7",
+                                          "size":  78103264
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/sharedassets2.resource",
+                                          "sha256":  "a96927a6162419c6b5ced9098fd10dea2e6354e114fd14e2ae371feac155b485",
+                                          "size":  4558016
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/sharedassets3.assets",
+                                          "sha256":  "aad8583049f8ced5dca6d21a8355df1a4fb4c1e15b9a3b3c9eab9668b30ec3a7",
+                                          "size":  21264
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/sharedassets4.assets",
+                                          "sha256":  "c7f852226dce75444fffa5cba130d488fa2d18dddbd9156824fa54ae529532ef",
+                                          "size":  2765584
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/sharedassets5.assets",
+                                          "sha256":  "c10b04acf43fdc5c76c787bfe3ebd0f801818e06726343b0ea41f92b78326584",
+                                          "size":  14969
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/sharedassets6.assets",
+                                          "sha256":  "84c619ac7fcbab8ac00211562100bca3dd06d0c056ad0ddb5cfd9c38b363a1be",
+                                          "size":  5360
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/sharedassets6.assets.resS",
+                                          "sha256":  "48acd7e6ad493bf17cd782db1212b47141646cb9f70a08bfc48ee82ec2da0119",
+                                          "size":  25165824
+                                      },
+                                      {
+                                          "path":  "B-LOW_Data/Managed/Assembly-CSharp.dll",
+                                          "sha256":  "632f77d268fba837fe6509701a359852768e663a4a5cb695cd2d323a29ff980a",
+                                          "size":  198656
+                                      }
+                                  ],
+                        "deletedFiles":  [
+                                             "B-LOW_Data/level7",
+                                             "B-LOW_Data/sharedassets1.resource",
+                                             "B-LOW_Data/sharedassets3.assets.resS",
+                                             "B-LOW_Data/sharedassets3.resource",
+                                             "B-LOW_Data/sharedassets7.assets",
+                                             "B-LOW_Data/sharedassets7.assets.resS"
+                                         ]
+                    }
+                ]
 }
