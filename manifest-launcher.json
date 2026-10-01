@@ -1,9 +1,9 @@
-﻿{
-    "launcherVersion":  "0.0.1",
-    "archiveFileName":  "B-LOW-Launcher-0.0.1.zip",
-    "archiveSha256":  "6ab8f2f85d902d0ff5db1aa292eb4b632b81c7c3d0fd6cd293edb93d28f4043c",
-    "archiveSize":  1634744,
-    "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/launcher-v0.0.1/B-LOW-Launcher-0.0.1.zip",
+{
+    "launcherVersion":  "0.0.2",
+    "archiveFileName":  "B-LOW-Launcher-0.0.2.zip",
+    "archiveSha256":  "4ce89aae35b552a3ec332b9321d688d050154a454b584f0c3ad23933cc1a7b59",
+    "archiveSize":  1634778,
+    "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/launcher-v0.0.2/B-LOW-Launcher-0.0.2.zip",
     "patchNotes":  "Added Auto Updates + Account Creation",
     "files":  [
                   {
@@ -18,7 +18,7 @@
                   },
                   {
                       "path":  "BLOW.Launcher.dll",
-                      "sha256":  "0ffc428eef5da21c888f15b253a821a5dc993a0c2723198b0847cd0fe4348f82",
+                      "sha256":  "606b1cc5e3153e0780137d48272e2f47cda29a78ff99a1686a0aa79ae796cf63",
                       "size":  1534976
                   },
                   {
@@ -28,7 +28,7 @@
                   },
                   {
                       "path":  "BLOW.Launcher.pdb",
-                      "sha256":  "bb08cbfb67d9063f49361b93f0df7ff512528464ce9076f2014d7874a27ecc67",
+                      "sha256":  "118fc3c1ca3d0203da98a9257ab1b3a252c4704b9017d3a479a304fc51d2c36d",
                       "size":  51028
                   },
                   {
@@ -43,7 +43,7 @@
                   },
                   {
                       "path":  "launcher-version.txt",
-                      "sha256":  "808148ed262880c216525f71ec29e1d72382db3c2b1d8ff3cf950021ec712069",
+                      "sha256":  "a1c63fda6999ba1d81b05869edfd8c0505cd6051cac70998d251635a8fd4b2a0",
                       "size":  10
                   }
               ]
