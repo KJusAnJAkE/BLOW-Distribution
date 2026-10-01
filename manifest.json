@@ -1,15 +1,15 @@
 {
-    "gameVersion":  "0.2.5",
+    "gameVersion":  "0.2.6",
     "executable":  "B-LOW.exe",
-    "archiveFileName":  "B-LOW-0.2.5.zip",
-    "archiveSha256":  "d808c33958b7a6a66c7ed564cdc36484562e86fe505d3bd3b7b9d1022dc86f58",
+    "archiveFileName":  "B-LOW-0.2.6.zip",
+    "archiveSha256":  "faa599248aa81144d2e0628ebf03293a085713c11422fa86ece698b046c1fa2d",
     "archiveSize":  201574053,
-    "patchNotes":  "Connected with Launcher",
+    "patchNotes":  "Connected To Launcher",
     "parts":  [
                   {
-                      "fileName":  "B-LOW-0.2.5.part001",
-                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.5/B-LOW-0.2.5.part001",
-                      "sha256":  "d808c33958b7a6a66c7ed564cdc36484562e86fe505d3bd3b7b9d1022dc86f58",
+                      "fileName":  "B-LOW-0.2.6.part001",
+                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.6/B-LOW-0.2.6.part001",
+                      "sha256":  "faa599248aa81144d2e0628ebf03293a085713c11422fa86ece698b046c1fa2d",
                       "size":  201574053
                   }
               ],
@@ -41,7 +41,7 @@
                   },
                   {
                       "path":  "version.txt",
-                      "sha256":  "df576fe7d8c8e2fe58eac897b5ea4edbf67a32b2d899a6bacfb64584c0100a06",
+                      "sha256":  "8abf48fd88625eb476641f881780dd6ea93e19c5335b8bf1db123054d73fb1c1",
                       "size":  10
                   },
                   {
@@ -1334,6 +1334,31 @@
                                       {
                                           "path":  "version.txt",
                                           "sha256":  "df576fe7d8c8e2fe58eac897b5ea4edbf67a32b2d899a6bacfb64584c0100a06",
+                                          "size":  10
+                                      }
+                                  ],
+                        "deletedFiles":  [
+
+                                         ]
+                    },
+                    {
+                        "fromVersion":  "0.2.5",
+                        "toVersion":  "0.2.6",
+                        "archiveFileName":  "B-LOW-Patch-0.2.5-to-0.2.6.zip",
+                        "archiveSha256":  "26ca7eaa8d73dc83312a25728dce5d705bf6a8f712737d95a97e20a233edd8c2",
+                        "archiveSize":  132,
+                        "parts":  [
+                                      {
+                                          "fileName":  "B-LOW-Patch-0.2.5-to-0.2.6.part001",
+                                          "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/game-v0.2.6/B-LOW-Patch-0.2.5-to-0.2.6.part001",
+                                          "sha256":  "26ca7eaa8d73dc83312a25728dce5d705bf6a8f712737d95a97e20a233edd8c2",
+                                          "size":  132
+                                      }
+                                  ],
+                        "files":  [
+                                      {
+                                          "path":  "version.txt",
+                                          "sha256":  "8abf48fd88625eb476641f881780dd6ea93e19c5335b8bf1db123054d73fb1c1",
                                           "size":  10
                                       }
                                   ],
