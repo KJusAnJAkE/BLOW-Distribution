@@ -1,10 +1,10 @@
 {
-    "launcherVersion":  "0.0.4",
-    "archiveFileName":  "B-LOW-Launcher-0.0.4.zip",
-    "archiveSha256":  "5340b20a2456e31e593a59402434644371915ecf0c47d20260655e50f9318b21",
-    "archiveSize":  1635937,
-    "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/launcher-v0.0.4/B-LOW-Launcher-0.0.4.zip",
-    "patchNotes":  "Added Launtcher Updates + Unit Sync across games",
+    "launcherVersion":  "0.0.8",
+    "archiveFileName":  "B-LOW-Launcher-0.0.8.zip",
+    "archiveSha256":  "894342e7dd58522dee78c6cdc4990a9f2e6b7f0e491e48400829604698de4ccd",
+    "archiveSize":  1636142,
+    "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/launcher-v0.0.8/B-LOW-Launcher-0.0.8.zip",
+    "patchNotes":  "Added Launcher Updates + Linked Units Across Both Games",
     "files":  [
                   {
                       "path":  "B-LOW.ico",
@@ -18,8 +18,8 @@
                   },
                   {
                       "path":  "BLOW.Launcher.dll",
-                      "sha256":  "034bee1f0f5c12c3cb6dba8543b2630c7db554365cd67925f602cfaebe226e6a",
-                      "size":  1536512
+                      "sha256":  "4ec594dc1b9ebdc9fa3d983b25885553d8a88dd9118c9e6f1b73e0e68fb50c8d",
+                      "size":  1537024
                   },
                   {
                       "path":  "BLOW.Launcher.exe",
@@ -28,8 +28,8 @@
                   },
                   {
                       "path":  "BLOW.Launcher.pdb",
-                      "sha256":  "9ba8c2031f962c7aecf078f4705f383e6abad78bb95c10d78d70257e007a12e9",
-                      "size":  51488
+                      "sha256":  "d54870ccb6d12a0db2c73cec239657cc198d44b0c6651e0eb253d4f69565e658",
+                      "size":  51528
                   },
                   {
                       "path":  "BLOW.Launcher.runtimeconfig.json",
@@ -48,7 +48,7 @@
                   },
                   {
                       "path":  "launcher-version.txt",
-                      "sha256":  "3a77430f3ab55da121403893c3ee30a797711fe44b2144ebeb09087ed9bb3527",
+                      "sha256":  "57a0b916c19e640ec1228f6d067ea9f3b1690784274446b1f917990a82d9722e",
                       "size":  10
                   }
               ]
