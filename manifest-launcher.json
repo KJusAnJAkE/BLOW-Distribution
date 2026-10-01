@@ -1,0 +1,50 @@
+﻿{
+    "launcherVersion":  "0.0.1",
+    "archiveFileName":  "B-LOW-Launcher-0.0.1.zip",
+    "archiveSha256":  "6ab8f2f85d902d0ff5db1aa292eb4b632b81c7c3d0fd6cd293edb93d28f4043c",
+    "archiveSize":  1634744,
+    "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/launcher-v0.0.1/B-LOW-Launcher-0.0.1.zip",
+    "patchNotes":  "Added Auto Updates + Account Creation",
+    "files":  [
+                  {
+                      "path":  "B-LOW.ico",
+                      "sha256":  "748a6a39b65d8bc6047a4c03a3a18b1e4b17a0d63d97b8c66eef7059ad92b4ab",
+                      "size":  61766
+                  },
+                  {
+                      "path":  "BLOW.Launcher.deps.json",
+                      "sha256":  "03c28b30a157d2572a770fd4ae6fa43185ef4e28617322e7259e9ad0d5eab8c9",
+                      "size":  433
+                  },
+                  {
+                      "path":  "BLOW.Launcher.dll",
+                      "sha256":  "0ffc428eef5da21c888f15b253a821a5dc993a0c2723198b0847cd0fe4348f82",
+                      "size":  1534976
+                  },
+                  {
+                      "path":  "BLOW.Launcher.exe",
+                      "sha256":  "66c61c2b1866458548e5a785f688912c1b24e39d579213d3c6a88454e018767d",
+                      "size":  224768
+                  },
+                  {
+                      "path":  "BLOW.Launcher.pdb",
+                      "sha256":  "bb08cbfb67d9063f49361b93f0df7ff512528464ce9076f2014d7874a27ecc67",
+                      "size":  51028
+                  },
+                  {
+                      "path":  "BLOW.Launcher.runtimeconfig.json",
+                      "sha256":  "96bc2946dff8790400d652ec7f8de7bb043e954980d59470c112788b68a1fbd3",
+                      "size":  519
+                  },
+                  {
+                      "path":  "Build-BLOW-MSI-FINAL.ps1",
+                      "sha256":  "75c6c522bfc7211dd6715bfe043865ab72f7575c88bf47533fa201714afd572b",
+                      "size":  14353
+                  },
+                  {
+                      "path":  "launcher-version.txt",
+                      "sha256":  "808148ed262880c216525f71ec29e1d72382db3c2b1d8ff3cf950021ec712069",
+                      "size":  10
+                  }
+              ]
+}
