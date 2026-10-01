@@ -1,9 +1,9 @@
 {
-    "launcherVersion":  "0.0.2",
-    "archiveFileName":  "B-LOW-Launcher-0.0.2.zip",
-    "archiveSha256":  "4ce89aae35b552a3ec332b9321d688d050154a454b584f0c3ad23933cc1a7b59",
-    "archiveSize":  1634778,
-    "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/launcher-v0.0.2/B-LOW-Launcher-0.0.2.zip",
+    "launcherVersion":  "0.0.3",
+    "archiveFileName":  "B-LOW-Launcher-0.0.3.zip",
+    "archiveSha256":  "f9fc9753c022295c60f77fe09a67ebf1fe1c1e011615274e2ba756db875ee4ce",
+    "archiveSize":  1634740,
+    "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/launcher-v0.0.3/B-LOW-Launcher-0.0.3.zip",
     "patchNotes":  "Added Auto Updates + Account Creation",
     "files":  [
                   {
@@ -18,7 +18,7 @@
                   },
                   {
                       "path":  "BLOW.Launcher.dll",
-                      "sha256":  "606b1cc5e3153e0780137d48272e2f47cda29a78ff99a1686a0aa79ae796cf63",
+                      "sha256":  "4aa8909ef53a033ce8ad267635023600e22e1b9e7ebc96b432ffec7da71bf165",
                       "size":  1534976
                   },
                   {
@@ -28,8 +28,8 @@
                   },
                   {
                       "path":  "BLOW.Launcher.pdb",
-                      "sha256":  "118fc3c1ca3d0203da98a9257ab1b3a252c4704b9017d3a479a304fc51d2c36d",
-                      "size":  51028
+                      "sha256":  "7ca036e1c0da8b712b93cf69435ee6c09c28a322fbe3068383d8b32492e1da62",
+                      "size":  51052
                   },
                   {
                       "path":  "BLOW.Launcher.runtimeconfig.json",
@@ -43,7 +43,7 @@
                   },
                   {
                       "path":  "launcher-version.txt",
-                      "sha256":  "a1c63fda6999ba1d81b05869edfd8c0505cd6051cac70998d251635a8fd4b2a0",
+                      "sha256":  "c284a56dbde614d80836bb5b325eeffe19a0cfd08b93b0b2afa6861634b4e5a3",
                       "size":  10
                   }
               ]
