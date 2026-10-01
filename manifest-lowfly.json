@@ -1389,14 +1389,14 @@
                                          ]
                     },
                     {
-                        "fromVersion":  "0.0.9",
+                        "fromVersion":  "0.0.6",
                         "toVersion":  "0.1.0",
-                        "archiveFileName":  "B-LOW-OW-Patch-0.0.9-to-0.1.0.zip",
+                        "archiveFileName":  "B-LOW-OW-Patch-0.0.6-to-0.1.0.zip",
                         "archiveSha256":  "be881f421656229b89c1ae2454b4725c3756790137cd4fed2069169f6c935268",
                         "archiveSize":  783361307,
                         "parts":  [
                                       {
-                                          "fileName":  "B-LOW-OW-Patch-0.0.9-to-0.1.0.part001",
+                                          "fileName":  "B-LOW-OW-Patch-0.0.6-to-0.1.0.part001",
                                           "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/ow-v0.1.0/B-LOW-OW-Patch-0.0.9-to-0.1.0.part001",
                                           "sha256":  "be881f421656229b89c1ae2454b4725c3756790137cd4fed2069169f6c935268",
                                           "size":  783361307
