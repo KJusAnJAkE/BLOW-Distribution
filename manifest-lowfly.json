@@ -1,16 +1,16 @@
 {
-    "gameVersion":  "0.1.3",
+    "gameVersion":  "0.1.4",
     "executable":  "B-LOW-OW.exe",
-    "archiveFileName":  "B-LOW-OW-0.1.3.zip",
-    "archiveSha256":  "5601ab36e22c1a49d610bbe8a1f5c3fb3ccb01d0a90cf5da1f9255e90278a1d5",
-    "archiveSize":  804031738,
+    "archiveFileName":  "B-LOW-OW-0.1.4.zip",
+    "archiveSha256":  "b0927e366e6a4db67dee8b8279a1b8a9c96a277b31dc122978d8d1b7a3561792",
+    "archiveSize":  804031660,
     "patchNotes":  "Fixed Flight stick binding, Fixed Fog, Added first instance of ship interface",
     "parts":  [
                   {
-                      "fileName":  "B-LOW-OW-0.1.3.part001",
-                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/ow-v0.1.3/B-LOW-OW-0.1.3.part001",
-                      "sha256":  "5601ab36e22c1a49d610bbe8a1f5c3fb3ccb01d0a90cf5da1f9255e90278a1d5",
-                      "size":  804031738
+                      "fileName":  "B-LOW-OW-0.1.4.part001",
+                      "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/ow-v0.1.4/B-LOW-OW-0.1.4.part001",
+                      "sha256":  "b0927e366e6a4db67dee8b8279a1b8a9c96a277b31dc122978d8d1b7a3561792",
+                      "size":  804031660
                   }
               ],
     "files":  [
@@ -41,7 +41,7 @@
                   },
                   {
                       "path":  "version.txt",
-                      "sha256":  "dbf0978ec2b587a5d6187fdcc41cce9ff2c0eb8eefadba0eb51f3840ab6eeb46",
+                      "sha256":  "4533065aed7c960261a231b4035cc9bcec8bff61ce6b338d43e9c50d153a4546",
                       "size":  5
                   },
                   {
@@ -56,12 +56,12 @@
                   },
                   {
                       "path":  "B-LOW-OW_Data/boot.config",
-                      "sha256":  "ffd202c1ca26b29d6b45aaad922d6f3d5bec08c3878b3632ece95342eb4cf937",
+                      "sha256":  "5f30b7f245bf24c0dd414ccc0f290455eb06ef2c914c900663a657a2628fcee5",
                       "size":  179
                   },
                   {
                       "path":  "B-LOW-OW_Data/globalgamemanagers",
-                      "sha256":  "876653c0613611dcb9e36c5eb04d79a039c13f9878ce4fa9d3d1487695df9270",
+                      "sha256":  "2474f52f90e723d3794579a9798231225022fdf7ffe3baa968b96f97451c8313",
                       "size":  276564
                   },
                   {
@@ -86,8 +86,8 @@
                   },
                   {
                       "path":  "B-LOW-OW_Data/level2",
-                      "sha256":  "d1b10b352e2e21563567f5152a7b7eaeffec8fa2459b859961d9943c807fcc09",
-                      "size":  486376
+                      "sha256":  "0d4b682c7efcbb9c3328bd2dc1872c94ec8d2ec54b1483e9df653caebf9844df",
+                      "size":  486068
                   },
                   {
                       "path":  "B-LOW-OW_Data/level3",
@@ -101,7 +101,7 @@
                   },
                   {
                       "path":  "B-LOW-OW_Data/resources.assets",
-                      "sha256":  "0d94407cf170febef7f15273ba7e2b2831ceb7fef308275af176814a5a2288a9",
+                      "sha256":  "2234c58acb471d430375ee84820b9055b8f3f08154df6299221078bfb9fc409f",
                       "size":  5329352
                   },
                   {
@@ -1796,6 +1796,51 @@
                                              "MonoBleedingEdge/etc/mono/4.5/web.config",
                                              "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
                                              "MonoBleedingEdge/etc/mono/mconfig/config.xml"
+                                         ]
+                    },
+                    {
+                        "fromVersion":  "0.1.3",
+                        "toVersion":  "0.1.4",
+                        "archiveFileName":  "B-LOW-OW-Patch-0.1.3-to-0.1.4.zip",
+                        "archiveSha256":  "675432bf13eb3d9940c24c112d940034178124158cbd2d1a27fa63f563b8a88a",
+                        "archiveSize":  2454580,
+                        "parts":  [
+                                      {
+                                          "fileName":  "B-LOW-OW-Patch-0.1.3-to-0.1.4.part001",
+                                          "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/ow-v0.1.4/B-LOW-OW-Patch-0.1.3-to-0.1.4.part001",
+                                          "sha256":  "675432bf13eb3d9940c24c112d940034178124158cbd2d1a27fa63f563b8a88a",
+                                          "size":  2454580
+                                      }
+                                  ],
+                        "files":  [
+                                      {
+                                          "path":  "version.txt",
+                                          "sha256":  "4533065aed7c960261a231b4035cc9bcec8bff61ce6b338d43e9c50d153a4546",
+                                          "size":  5
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/boot.config",
+                                          "sha256":  "5f30b7f245bf24c0dd414ccc0f290455eb06ef2c914c900663a657a2628fcee5",
+                                          "size":  179
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/globalgamemanagers",
+                                          "sha256":  "2474f52f90e723d3794579a9798231225022fdf7ffe3baa968b96f97451c8313",
+                                          "size":  276564
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/level2",
+                                          "sha256":  "0d4b682c7efcbb9c3328bd2dc1872c94ec8d2ec54b1483e9df653caebf9844df",
+                                          "size":  486068
+                                      },
+                                      {
+                                          "path":  "B-LOW-OW_Data/resources.assets",
+                                          "sha256":  "2234c58acb471d430375ee84820b9055b8f3f08154df6299221078bfb9fc409f",
+                                          "size":  5329352
+                                      }
+                                  ],
+                        "deletedFiles":  [
+
                                          ]
                     }
                 ]
