@@ -1,16 +1,11 @@
 {
-    "launcherVersion":  "0.0.8",
-    "archiveFileName":  "B-LOW-Launcher-0.0.8.zip",
-    "archiveSha256":  "894342e7dd58522dee78c6cdc4990a9f2e6b7f0e491e48400829604698de4ccd",
-    "archiveSize":  1636142,
-    "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/launcher-v0.0.8/B-LOW-Launcher-0.0.8.zip",
-    "patchNotes":  "Added Launcher Updates + Linked Units Across Both Games",
+    "launcherVersion":  "0.9.0",
+    "archiveFileName":  "B-LOW-Launcher-0.9.0.zip",
+    "archiveSha256":  "9f927abcd487776d94f1c5d257d1c8fe587ace2ef4276557f046b119fe57a72f",
+    "archiveSize":  2457097,
+    "downloadUrl":  "https://github.com/KJusAnJAke/BLOW-Distribution/releases/download/launcher-v0.9.0/B-LOW-Launcher-0.9.0.zip",
+    "patchNotes":  "BWEH",
     "files":  [
-                  {
-                      "path":  "B-LOW.ico",
-                      "sha256":  "748a6a39b65d8bc6047a4c03a3a18b1e4b17a0d63d97b8c66eef7059ad92b4ab",
-                      "size":  61766
-                  },
                   {
                       "path":  "BLOW.Launcher.deps.json",
                       "sha256":  "03c28b30a157d2572a770fd4ae6fa43185ef4e28617322e7259e9ad0d5eab8c9",
@@ -18,8 +13,8 @@
                   },
                   {
                       "path":  "BLOW.Launcher.dll",
-                      "sha256":  "4ec594dc1b9ebdc9fa3d983b25885553d8a88dd9118c9e6f1b73e0e68fb50c8d",
-                      "size":  1537024
+                      "sha256":  "d31827aa9e712107003a1a96263ebec4da9836f30e6a3e46d5c2a13875697f19",
+                      "size":  1584640
                   },
                   {
                       "path":  "BLOW.Launcher.exe",
@@ -28,8 +23,8 @@
                   },
                   {
                       "path":  "BLOW.Launcher.pdb",
-                      "sha256":  "d54870ccb6d12a0db2c73cec239657cc198d44b0c6651e0eb253d4f69565e658",
-                      "size":  51528
+                      "sha256":  "27121d3d3e54070276788f309741dafc48d5a9bac40ca43f7a1b7bcab223e615",
+                      "size":  62044
                   },
                   {
                       "path":  "BLOW.Launcher.runtimeconfig.json",
@@ -37,19 +32,44 @@
                       "size":  519
                   },
                   {
-                      "path":  "Build-BLOW-MSI-FINAL-WITH-UPDATER.bat",
-                      "sha256":  "c3b37ae0b8455b4a4126364c9e20510e39db8c3ce80be34d121e2236e17390e6",
-                      "size":  130
-                  },
-                  {
-                      "path":  "Build-BLOW-MSI-FINAL-WITH-UPDATER.ps1",
-                      "sha256":  "08d5b82e94b07b45fab520ff3b2524ba54fe25b6a12aeb580b23175c79d52f96",
-                      "size":  15599
-                  },
-                  {
                       "path":  "launcher-version.txt",
-                      "sha256":  "57a0b916c19e640ec1228f6d067ea9f3b1690784274446b1f917990a82d9722e",
+                      "sha256":  "400f1ea81d22b7f1ef4b91e609ed0a3ae5a5a1983f99ad734ed26fcc4e5aa8be",
                       "size":  10
+                  },
+                  {
+                      "path":  "Assets/Audio/click1.wav",
+                      "sha256":  "6aa93f964efa80d9c982a59df5b66d4a9a5704c704b119f0a0c368b14ee20487",
+                      "size":  5864
+                  },
+                  {
+                      "path":  "Assets/Audio/click2.wav",
+                      "sha256":  "6074439dae1de67d9b6ad293b7c2076c66ae889ab89b718225b8f998e8e53ff7",
+                      "size":  5864
+                  },
+                  {
+                      "path":  "Assets/Audio/click3.wav",
+                      "sha256":  "260c8a9771ea69282f37cd040d92fdd101de8b97551d18166912d1f5e5706088",
+                      "size":  5864
+                  },
+                  {
+                      "path":  "Assets/Audio/install.wav",
+                      "sha256":  "71d3de113612a5a632bf628cc13844f1ea2e14971a289e6dbc5648a7fbac9607",
+                      "size":  35324
+                  },
+                  {
+                      "path":  "Assets/Audio/panel.wav",
+                      "sha256":  "1064ad4df160f1f551c2e91d6ab71e43bcebcbe1ddc3abc7298a58a16d425890",
+                      "size":  21212
+                  },
+                  {
+                      "path":  "Assets/Audio/ready.wav",
+                      "sha256":  "ef0a35ab1cf8ac0c4f1689f2315ffce3677e51602580d70dd543d11b3ef167e1",
+                      "size":  54728
+                  },
+                  {
+                      "path":  "Assets/Audio/space-ambient.mp3",
+                      "sha256":  "ed2c9736850258cd7ac80e3fd8647486a6ed7065246dced3fe0e6cb63f590427",
+                      "size":  769134
                   }
               ]
 }
