@@ -4,32 +4,7 @@
     "archiveFileName":  "BlowGame-1.3.4.zip",
     "archiveSha256":  "e38bdef90ca8e14eef84189da332e4204fc0efb3cd9b46c2ab5ebfa4543bc4db",
     "archiveSize":  93503759,
-    "patchNotes":  "B-LOW V1.3.4
--------------------------
-
-New Features
--------------
-• Unified game and launcher installation.
-• Playable low flying with map and ship selection.
-• Cockpit status panels and live terrain radar.
-• Hull damage, scraping, deformation and detachable parts.
-• Ship explosions, death camera and respawning.
-• Twin laser weapons with individual and shared heat limits.
-• Flight audio, camera effects and G-force effects.
-• Settings with keyboard remapping, stick/pedal bindings
-  and adjustable deadzones.
-• Saved settings and animated portal transitions.
-
-Fixed Bugs
------------
-• Fixed settings scrolling stopping before the bottom.
-• Added smooth scrolling.
-• Fixed audio listeners being disabled on death.
-
-Development Notes
-------------------
-• Racing and combat are currently locked.
-• Visuals, audio and destruction will receive further polish.",
+   "patchNotes": "B-LOW V1.3.4\n-------------------------\n\nNew Features\n-------------\n• Unified game and launcher installation.\n• Playable low flying with map and ship selection.\n• Cockpit status panels and live terrain radar.\n• Hull damage, scraping, deformation and detachable parts.\n• Ship explosions, death camera and respawning.\n• Twin laser weapons with individual and shared heat limits.\n• Flight audio, camera effects and G-force effects.\n• Settings with keyboard remapping, stick/pedal bindings and adjustable deadzones.\n• Saved settings and animated portal transitions.\n\nFixed Bugs\n-----------\n• Fixed settings scrolling stopping before the bottom.\n• Added smooth scrolling.\n• Fixed audio listeners being disabled on death.\n\nDevelopment Notes\n------------------\n• Racing and combat are currently locked.\n• Visuals, audio and destruction will receive further polish.",
     "parts":  [
                   {
                       "fileName":  "BlowGame-1.3.4.part001",
